@@ -125,7 +125,7 @@ sections:
       subtitle:
         textAlign: center
   - type: FeaturedPostsSection
-    title: 'Posts:'
+    title: ''
     actions:
       - type: Link
         label: See all posts
