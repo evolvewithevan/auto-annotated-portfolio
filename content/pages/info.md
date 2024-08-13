@@ -185,13 +185,13 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
+        label: Davinci Resolve
+      - type: Label
         label: Blender
       - type: Label
         label: Inkscape
       - type: Label
         label: GIMP
-      - type: Label
-        label: Davinci Resolve
       - type: Label
         label: Netlify
       - type: Label
