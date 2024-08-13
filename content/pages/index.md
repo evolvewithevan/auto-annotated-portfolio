@@ -170,7 +170,7 @@ sections:
           - pb-3
           - pl-3
           - pr-3
-        alignItems: flex-start
+        alignItems: flex-end
         justifyContent: center
         flexDirection: row
         borderColor: border-dark
