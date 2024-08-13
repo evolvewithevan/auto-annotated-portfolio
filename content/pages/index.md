@@ -169,7 +169,7 @@ sections:
           - pt-3
           - pb-3
           - pl-96
-          - pr-3
+          - pr-96
         alignItems: center
         justifyContent: center
         flexDirection: col
