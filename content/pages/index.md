@@ -57,7 +57,7 @@ sections:
         justifyContent: flex-start
   - type: MediaGallerySection
     title: ''
-    subtitle: Portfolio
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
