@@ -215,7 +215,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [evolvewitheevan@gmail.com](mailto:evolvewithevan@gmail.com)
+      <evolvewithevan@gmail.com>
   - type: DividerSection
     styles:
       self:
