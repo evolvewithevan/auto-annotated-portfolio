@@ -59,28 +59,32 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: >-
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523368/bzr3kkwdnnycwycrvcic.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: >-
+          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523503/cba2omcqynoknuhszowk.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: >-
+          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523462/pdhluttm6w6rbvumw9hy.png
         altText: Image three
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: >-
+          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523463/jv0ffcandz3jhq2xhvtc.png
         altText: Image four
         caption: Image four caption
         elementId: ''
       - type: ImageBlock
         url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723516924/HBTherapy-small_mejlmc.jpg
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
