@@ -185,7 +185,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: React
+        label: GIMP
       - type: Label
         label: Microsoft Office
       - type: Label
