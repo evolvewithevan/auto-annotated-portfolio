@@ -147,7 +147,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     elementId: ''
     styles:
