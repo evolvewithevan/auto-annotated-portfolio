@@ -125,42 +125,6 @@ sections:
       subtitle:
         textAlign: center
   - type: FeaturedPostsSection
-    title: ''
-    actions:
-      - type: Link
-        label: See all posts
-        altText: See all posts
-        url: /blog
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-    posts: []
-    colors: colors-f
-    variant: variant-d
-    elementId: ''
-    showDate: true
-    showAuthor: false
-    showExcerpt: true
-    showFeaturedImage: false
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-  - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
     variant: variant-d
