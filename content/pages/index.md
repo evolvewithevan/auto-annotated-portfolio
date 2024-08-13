@@ -13,9 +13,7 @@ sections:
   - type: CtaSection
     title: ''
     text: |+
-      ## Let's make something awesome
-
-
+      ## Let's make something awesome   ✦˚
 
     actions:
       - type: Button
