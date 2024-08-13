@@ -69,7 +69,7 @@ sections:
           - pt-4
           - pb-4
           - pl-4
-          - pr-4
+          - pr-7
         justifyContent: center
         borderWidth: 1
   - type: MediaGallerySection
