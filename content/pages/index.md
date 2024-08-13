@@ -185,17 +185,4 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-7
-          - pb-7
-          - pl-32
-          - pr-32
-        justifyContent: center
-        borderWidth: 1
 ---
