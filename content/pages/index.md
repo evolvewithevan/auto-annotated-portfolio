@@ -52,7 +52,7 @@ sections:
         flexDirection: row
         borderWidth: 3
         borderStyle: solid
-        borderRadius: xx-small
+        borderRadius: large
       title:
         textAlign: left
       text:
