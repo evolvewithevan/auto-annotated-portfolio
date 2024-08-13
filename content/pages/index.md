@@ -132,7 +132,7 @@ sections:
       - type: Button
         label: View more
         altText: ''
-        url: ''
+        url: 'https://www.artstation.com/evolve-with-evan'
         showIcon: true
         icon: arrowRight
         iconPosition: right
