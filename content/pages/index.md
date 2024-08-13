@@ -13,7 +13,7 @@ sections:
   - type: CtaSection
     title: ''
     text: |+
-      # Let's make something that truly captures your vision
+      #### Let's make something that truly captures your vision
 
     actions:
       - type: Button
