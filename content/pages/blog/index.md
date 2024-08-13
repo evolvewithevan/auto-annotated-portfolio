@@ -34,7 +34,7 @@ topSections:
     quote: >
       Seriously this page isnt supposed to be linked anywhere, How did you end
       up on it?
-    name: Johnna Doe
+    name: Evan
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
