@@ -44,7 +44,7 @@ sections:
         width: wide
         padding:
           - pt-28
-          - pb-16
+          - pb-11
           - pl-4
           - pr-4
         alignItems: flex-start
