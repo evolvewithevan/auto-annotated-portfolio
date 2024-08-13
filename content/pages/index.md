@@ -130,7 +130,7 @@ sections:
        
     actions:
       - type: Button
-        label: Try it now
+        label: View full portfolio
         altText: ''
         url: /
         showIcon: true
