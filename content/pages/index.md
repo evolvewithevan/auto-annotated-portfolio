@@ -190,7 +190,7 @@ sections:
         padding:
           - pt-10
           - pb-36
-          - pl-24
+          - pl-32
           - pr-32
         justifyContent: center
         borderWidth: 1
