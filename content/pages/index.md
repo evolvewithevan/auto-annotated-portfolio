@@ -97,7 +97,7 @@ sections:
       - type: ImageBlock
         url: >-
           https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524728/qtgos3x9agnpkug6uh74.png
-        altText: altText of the image
+        altText: Image seven
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
