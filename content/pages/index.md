@@ -146,7 +146,7 @@ sections:
       subtitle:
         textAlign: center
   - type: CtaSection
-    title: View
+    title: ''
     text: |2
        
     actions:
