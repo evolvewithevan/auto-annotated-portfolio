@@ -60,7 +60,7 @@ sections:
     images:
       - type: ImageBlock
         url: >-
-          http://res.cloudinary.com/dd4d1ezxa/video/upload/v1723523538/ixfezjbdzcxynippj1xh.mp4
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523368/bzr3kkwdnnycwycrvcic.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
