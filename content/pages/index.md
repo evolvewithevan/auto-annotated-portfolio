@@ -130,7 +130,7 @@ sections:
        
     actions:
       - type: Button
-        label: View full portfolio
+        label: View more
         altText: ''
         url: /
         showIcon: true
