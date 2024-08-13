@@ -189,7 +189,7 @@ sections:
       - type: Label
         label: Inkscape
       - type: Label
-        label: Next.js
+        label: Blender
       - type: Label
         label: Netlify
       - type: Label
