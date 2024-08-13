@@ -151,7 +151,7 @@ sections:
        
     actions:
       - type: Button
-        label: '# View Portfolio'
+        label: View Portfolio
         altText: ''
         url: 'https://www.artstation.com/evolve-with-evan'
         showIcon: true
