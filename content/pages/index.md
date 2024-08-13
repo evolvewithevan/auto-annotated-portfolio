@@ -126,7 +126,7 @@ sections:
         elementId: ''
     colors: colors-a
     spacing: 5
-    columns: 3
+    columns: 4
     aspectRatio: '1:1'
     showCaption: false
     enableHover: true
