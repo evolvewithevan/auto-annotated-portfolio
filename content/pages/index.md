@@ -153,7 +153,7 @@ sections:
     styles:
       self:
         height: auto
-        width: full
+        width: wide
         padding:
           - pt-5
           - pb-5
