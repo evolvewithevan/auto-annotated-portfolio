@@ -130,6 +130,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: git
       - type: FeaturedItem
         actions:
           - type: Link
