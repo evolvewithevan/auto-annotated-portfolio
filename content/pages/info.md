@@ -83,7 +83,7 @@ sections:
         actions:
           - type: Link
             label: Artstation
-            url: 'https://twitter.com/'
+            url: 'https://www.artstation.com/evolve-with-evan'
         styles:
           self:
             textAlign: left
