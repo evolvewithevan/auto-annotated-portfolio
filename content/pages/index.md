@@ -189,7 +189,7 @@ sections:
         width: full
         padding:
           - pt-7
-          - pb-36
+          - pb-7
           - pl-32
           - pr-32
         justifyContent: center
