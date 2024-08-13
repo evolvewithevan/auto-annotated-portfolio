@@ -188,7 +188,7 @@ sections:
       self:
         width: full
         padding:
-          - pt-10
+          - pt-7
           - pb-36
           - pl-32
           - pr-32
