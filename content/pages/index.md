@@ -13,9 +13,7 @@ sections:
   - type: CtaSection
     title: ''
     text: |+
-      ## Let's make something awesome
-
-
+      ## Let's make something awesome   ✦˚
 
     actions:
       - type: Button
@@ -126,7 +124,7 @@ sections:
         elementId: ''
     colors: colors-a
     spacing: 5
-    columns: 3
+    columns: 4
     aspectRatio: '1:1'
     showCaption: false
     enableHover: true
@@ -147,8 +145,7 @@ sections:
         textAlign: center
   - type: CtaSection
     title: ''
-    text: |2
-       
+    text: ''
     actions:
       - type: Button
         label: View Portfolio
@@ -159,22 +156,25 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    colors: colors-a
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
       self:
         height: auto
-        width: full
+        width: narrow
         padding:
-          - pt-5
-          - pb-5
-          - pl-4
-          - pr-4
+          - pt-8
+          - pb-3
+          - pl-96
+          - pr-0
         alignItems: center
         justifyContent: center
-        flexDirection: row
+        flexDirection: col
         borderColor: border-dark
+        borderRadius: xx-small
+        margin:
+          - ml-96
       title:
         textAlign: left
       text:
