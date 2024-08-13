@@ -167,7 +167,7 @@ sections:
         width: narrow
         padding:
           - pt-8
-          - pb-0
+          - pb-5
           - pl-96
           - pr-0
         alignItems: center
