@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: CtaSection
-    title: Let's make something awesome
+    title: ''
     text: |
       Let's make something that truly captures your vision
     actions:
