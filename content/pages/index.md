@@ -86,7 +86,7 @@ sections:
         url: >-
           https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723516924/HBTherapy-small_mejlmc.jpg
         altText: Image five
-        caption: Caption of the image
+        caption: Image five caption
         elementId: ''
       - type: ImageBlock
         url: >-
