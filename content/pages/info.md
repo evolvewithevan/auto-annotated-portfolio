@@ -193,7 +193,7 @@ sections:
       - type: Label
         label: GIMP
       - type: Label
-        label: Netlify
+        label: Python
       - type: Label
         label: C++
       - type: Label
