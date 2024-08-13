@@ -14,15 +14,14 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Hey, My name's Evan and im a freelance visual artist whos absolutely in
-      love with music. I’m currently accepting clients in need of sick new
-      visuals for their work. When I’m not coding, writing or creating, I'm
-      listening to music or getting involved in the scene.
+      ## Hey, I'm Evan and i'm a freelance visual artist. I am absolutely in
+      love with music. When I’m not coding, writing or creating, I'm listening
+      to music or getting involved in the scene. I'm always searching for
+      creators to work with !
 
     media:
       type: ImageBlock
-      url: >-
-        http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723527942/gyuem00lnnibwdsxb0gy.jpg
+      url: /images/bg.jpg
       altText: Hero image
     styles:
       self:
@@ -60,65 +59,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -126,7 +66,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/evolvewithevan.co/'
         styles:
           self:
             textAlign: left
@@ -142,11 +82,28 @@ sections:
         actions:
           - type: Link
             label: Artstation
-            url: 'https://twitter.com/'
+            url: 'https://www.artstation.com/evolve-with-evan'
         styles:
           self:
             textAlign: left
-    columns: 3
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Link
+            label: email
+            altText: ''
+            url: 'mailto:evolvewithevan@gmail.com'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
+    columns: 4
     spacingX: 120
     spacingY: 0
     styles:
@@ -216,82 +173,4 @@ sections:
     colors: colors-f
     text: |
       <evolvewithevan@gmail.com>
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: ContactSection
-    backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-12
-          - pb-12
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
 ---
