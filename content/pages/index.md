@@ -80,7 +80,7 @@ sections:
         caption: Image four caption
         elementId: ''
     colors: colors-f
-    spacing: 42
+    spacing: 76
     columns: 4
     aspectRatio: '1:1'
     showCaption: false
