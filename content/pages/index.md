@@ -19,7 +19,7 @@ sections:
       - type: Button
         label: Order a commision
         altText: Order a commision button
-        url: /
+        url: 'https://tally.so/forms/m6xgkY'
         showIcon: true
         icon: arrowRight
         iconPosition: right
