@@ -77,7 +77,8 @@ sections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: >-
+          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523463/jv0ffcandz3jhq2xhvtc.png
         altText: Image four
         caption: Image four caption
         elementId: ''
