@@ -125,7 +125,7 @@ sections:
       subtitle:
         textAlign: center
   - type: CtaSection
-    title: View full portfolio
+    title: ''
     text: ''
     actions:
       - type: Button
