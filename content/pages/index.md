@@ -12,10 +12,9 @@ backgroundImage:
 sections:
   - type: CtaSection
     title: Let's make something awesome
-    text: >+
-      We will work together through every step of the process in order to make
+    text: >
+      Let's work together through every step of the process in order to make
       something that truly captures your vision.
-
     actions:
       - type: Button
         label: Order a commision
