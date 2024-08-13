@@ -174,10 +174,10 @@ sections:
         borderColor: border-dark
         borderRadius: xx-small
         margin:
-          - ml-1
-          - mt-1
-          - mb-1
-          - mr-1
+          - ml-0
+          - mt-0
+          - mb-0
+          - mr-0
       title:
         textAlign: left
       text:
