@@ -96,7 +96,7 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Learn more
+            label: email
             altText: ''
             url: 'mailto:evolvewithevan@gmail.com'
             showIcon: false
