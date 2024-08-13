@@ -90,7 +90,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524629/yuhxfnjzsizj9jomczyc.png
         altText: altText of the image
         caption: Caption of the image
         elementId: ''
