@@ -14,10 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Hey, My name's Evan and im a freelance visual artist whos absolutely in
-      love with music. I’m currently accepting clients in need of sick new
-      visuals for their work. When I’m not coding, writing or creating, I'm
-      listening to music or getting involved in the scene.
+      ## Hey, I'm Evan and i'm a freelance visual artist. I am absolutely in
+      love with music. When I’m not coding, writing or creating, I'm listening
+      to music or getting involved in the scene. I'm always searching for
+      creators to work with !
 
     media:
       type: ImageBlock
