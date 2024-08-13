@@ -59,7 +59,8 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: >-
+          http://res.cloudinary.com/dd4d1ezxa/video/upload/v1723523538/ixfezjbdzcxynippj1xh.mp4
         altText: Image one
         caption: Image one caption
         elementId: ''
