@@ -13,11 +13,12 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Hey, My names Evan and im a freelance visual artist whos absolutely in
+      love with music. I’m currently accepting clients in need of sick new
+      visuals for their work. When I’m not coding, writing or creating, I'm
+      listening to music or getting involved in the scene.
+
     media:
       type: ImageBlock
       url: >-
