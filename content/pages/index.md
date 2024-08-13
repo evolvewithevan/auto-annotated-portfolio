@@ -50,6 +50,7 @@ sections:
         alignItems: flex-start
         justifyContent: center
         flexDirection: row
+        borderWidth: 5
       title:
         textAlign: left
       text:
