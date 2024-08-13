@@ -125,6 +125,14 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
+            label: Instagram
+            url: 'https://www.instagram.com/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
             label: GitHub
             url: 'https://github.com/'
         styles:
@@ -160,14 +168,6 @@ sections:
           - type: Link
             label: Discord
             url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
         styles:
           self:
             textAlign: left
