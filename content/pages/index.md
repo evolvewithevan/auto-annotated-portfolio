@@ -145,7 +145,8 @@ sections:
         textAlign: center
   - type: CtaSection
     title: ''
-    text: ''
+    text: |2
+       
     actions:
       - type: Button
         label: View Portfolio
