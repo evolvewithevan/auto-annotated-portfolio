@@ -193,7 +193,7 @@ sections:
       - type: Label
         label: GIMP
       - type: Label
-        label: Python 2-3
+        label: Python 2&3
       - type: Label
         label: C++
       - type: Label
