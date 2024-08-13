@@ -78,7 +78,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
-          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523463/jv0ffcandz3jhq2xhvtc.png
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523462/pdhluttm6w6rbvumw9hy.png
         altText: Image four
         caption: Image four caption
         elementId: ''
