@@ -150,7 +150,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
+            label: Artstation
             url: 'https://twitter.com/'
         styles:
           self:
