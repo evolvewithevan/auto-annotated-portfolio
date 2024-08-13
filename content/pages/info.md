@@ -195,7 +195,7 @@ sections:
       - type: Label
         label: Python 2&3
       - type: Label
-        label: C++
+        label: Photography
       - type: Label
         label: Swift
   - type: DividerSection
