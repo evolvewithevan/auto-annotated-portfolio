@@ -66,48 +66,48 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
-          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523503/cba2omcqynoknuhszowk.jpg
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524629/yuhxfnjzsizj9jomczyc.png
         altText: Image two
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
         url: >-
-          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523462/pdhluttm6w6rbvumw9hy.png
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723525323/tjnjxapbrr2k8qmoknqs.png
         altText: Image three
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
         url: >-
-          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523463/jv0ffcandz3jhq2xhvtc.png
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523462/pdhluttm6w6rbvumw9hy.png
         altText: Image four
         caption: Image four caption
         elementId: ''
       - type: ImageBlock
         url: >-
           https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723516924/HBTherapy-small_mejlmc.jpg
-        altText: altText of the image
-        caption: Caption of the image
+        altText: Image five
+        caption: Image five caption
         elementId: ''
       - type: ImageBlock
         url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524629/jrgn5sgwr8d33lyzeazu.png
+        altText: Image six
+        caption: Image six caption
         elementId: ''
       - type: ImageBlock
         url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524728/qtgos3x9agnpkug6uh74.png
+        altText: Image seven
+        caption: Image seven caption
         elementId: ''
       - type: ImageBlock
         url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
-        caption: Caption of the image
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523503/q4qjdtef1jsg5z9jkxhv.jpg
+        altText: Image eight
+        caption: Image eight caption
         elementId: ''
     colors: colors-a
-    spacing: 76
+    spacing: 29
     columns: 4
     aspectRatio: '1:1'
     showCaption: false
