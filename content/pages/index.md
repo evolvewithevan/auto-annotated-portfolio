@@ -103,7 +103,7 @@ sections:
       - type: ImageBlock
         url: >-
           https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523503/q4qjdtef1jsg5z9jkxhv.jpg
-        altText: altText of the image
+        altText: Image8
         caption: Caption of the image
         elementId: ''
     colors: colors-a
