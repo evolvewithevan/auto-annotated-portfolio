@@ -172,7 +172,7 @@ sections:
           - pr-3
         alignItems: flex-end
         justifyContent: center
-        flexDirection: row
+        flexDirection: col
         borderColor: border-dark
       title:
         textAlign: left
