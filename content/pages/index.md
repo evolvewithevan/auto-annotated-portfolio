@@ -147,9 +147,7 @@ sections:
         textAlign: center
   - type: CtaSection
     title: ''
-    text: |+
-      \<div style="text-align: center">View\</div>
-
+    text: ''
     actions:
       - type: Button
         label: View Portfolio
