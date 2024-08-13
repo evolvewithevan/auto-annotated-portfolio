@@ -56,7 +56,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: MediaGallerySection
-    title: ''
+    title: Portfolio
     subtitle: ''
     images:
       - type: ImageBlock
