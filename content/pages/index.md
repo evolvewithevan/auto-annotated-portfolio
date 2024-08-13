@@ -164,10 +164,10 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-8
-          - pb-3
-          - pl-96
-          - pr-0
+          - pt-2
+          - pb-2
+          - pl-2
+          - pr-2
         alignItems: center
         justifyContent: center
         flexDirection: col
