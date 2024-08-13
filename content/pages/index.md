@@ -129,7 +129,7 @@ sections:
        
     actions:
       - type: Button
-        label: View more
+        label: View Portfolio
         altText: ''
         url: 'https://www.artstation.com/evolve-with-evan'
         showIcon: true
