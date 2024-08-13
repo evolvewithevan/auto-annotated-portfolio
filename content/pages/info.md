@@ -191,7 +191,7 @@ sections:
       - type: Label
         label: Blender
       - type: Label
-        label: Pancakes
+        label: Davinci Resolve
       - type: Label
         label: Netlify
       - type: Label
