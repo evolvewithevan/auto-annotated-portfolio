@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Freelance Artist
+    title: Lets make something awesome
     subtitle: ''
     styles:
       self:
