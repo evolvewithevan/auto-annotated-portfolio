@@ -191,7 +191,7 @@ sections:
           - pt-10
           - pb-36
           - pl-4
-          - pr-10
+          - pr-16
         justifyContent: center
         borderWidth: 1
   - type: ContactSection
