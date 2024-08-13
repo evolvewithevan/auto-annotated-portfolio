@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Hey, My names Evan and im a freelance visual artist whos absolutely in
+      ## Hey, My name's Evan and im a freelance visual artist whos absolutely in
       love with music. I’m currently accepting clients in need of sick new
       visuals for their work. When I’m not coding, writing or creating, I'm
       listening to music or getting involved in the scene.
