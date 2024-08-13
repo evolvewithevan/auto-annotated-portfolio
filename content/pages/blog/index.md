@@ -35,7 +35,7 @@ topSections:
       Seriously this page isnt supposed to be linked anywhere, How did you end
       up on it?
     name: Evan
-    title: Product Marketing Manager at Acme
+    title: Freelance Visual Artist
     colors: colors-f
     elementId: ''
     styles:
