@@ -197,7 +197,7 @@ sections:
       - type: Label
         label: Photography
       - type: Label
-        label: Swift
+        label: Physical Painting
   - type: DividerSection
     styles:
       self:
