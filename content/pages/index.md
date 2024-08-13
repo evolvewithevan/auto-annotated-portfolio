@@ -65,7 +65,8 @@ sections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: >-
+          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523503/cba2omcqynoknuhszowk.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
