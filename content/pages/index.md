@@ -171,7 +171,7 @@ sections:
           - pl-3
           - pr-3
         alignItems: center
-        justifyContent: center
+        justifyContent: flex-end
         flexDirection: col
         borderColor: border-dark
       title:
