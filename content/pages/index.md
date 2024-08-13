@@ -4,8 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: >-
-    http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723516897/cld-sample-2.jpg
+  url: /images/bg4.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
