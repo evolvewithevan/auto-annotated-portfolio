@@ -155,7 +155,7 @@ sections:
         altText: ''
         url: 'https://www.artstation.com/evolve-with-evan'
         showIcon: true
-        icon: arrowRightCircle
+        icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
