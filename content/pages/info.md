@@ -187,9 +187,9 @@ sections:
       - type: Label
         label: Blender
       - type: Label
-        label: GIMP
-      - type: Label
         label: Inkscape
+      - type: Label
+        label: GIMP
       - type: Label
         label: Davinci Resolve
       - type: Label
