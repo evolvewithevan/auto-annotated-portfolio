@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: AI are so hot right now
+title: I have no clue how you found this page but congratulations haha
 colors: colors-a
 date: ''
 author: content/data/team/doris-soto.json
