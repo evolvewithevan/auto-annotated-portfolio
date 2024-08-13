@@ -132,7 +132,7 @@ sections:
       - type: Button
         label: View more
         altText: ''
-        url: /
+        url: ''
         showIcon: true
         icon: arrowRight
         iconPosition: right
