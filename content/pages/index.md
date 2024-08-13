@@ -164,7 +164,7 @@ sections:
     styles:
       self:
         height: auto
-        width: full
+        width: narrow
         padding:
           - pt-5
           - pb-5
