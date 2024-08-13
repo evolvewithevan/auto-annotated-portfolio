@@ -12,8 +12,9 @@ backgroundImage:
 sections:
   - type: CtaSection
     title: ''
-    text: |
-      Let's make something that truly captures your vision
+    text: |+
+      ## Let's make something that truly captures your vision
+
     actions:
       - type: Button
         label: Order a commision
