@@ -146,7 +146,7 @@ sections:
   - type: CtaSection
     title: ''
     text: |2
-       
+         
     actions:
       - type: Button
         label: View Portfolio
