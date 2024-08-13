@@ -84,7 +84,7 @@ sections:
     columns: 4
     aspectRatio: '1:1'
     showCaption: false
-    enableHover: false
+    enableHover: true
     elementId: ''
     styles:
       self:
