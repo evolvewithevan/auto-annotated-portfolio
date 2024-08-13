@@ -13,7 +13,9 @@ sections:
   - type: CtaSection
     title: Let's make something awesome
     text: |
-      Let's work together to make something that truly captures your vision.
+      Let's make something that truly captures your vision
+
+      .
     actions:
       - type: Button
         label: Order a commision
