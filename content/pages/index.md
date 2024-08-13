@@ -50,7 +50,7 @@ sections:
         alignItems: flex-start
         justifyContent: center
         flexDirection: row
-        borderWidth: 3
+        borderWidth: 0
         borderStyle: solid
         borderRadius: none
       title:
