@@ -187,7 +187,7 @@ sections:
       - type: Label
         label: GIMP
       - type: Label
-        label: Microsoft Office
+        label: Inkscape
       - type: Label
         label: Next.js
       - type: Label
