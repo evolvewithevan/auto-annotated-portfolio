@@ -13,7 +13,9 @@ sections:
   - type: CtaSection
     title: ''
     text: |+
-      #### Let's make something that truly captures your vision
+      ## Let's make something awesome
+
+
 
     actions:
       - type: Button
@@ -39,21 +41,37 @@ sections:
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         padding:
-          - pt-28
-          - pb-28
+          - pt-20
+          - pb-8
           - pl-4
           - pr-4
-        alignItems: center
+        alignItems: flex-start
         justifyContent: center
         flexDirection: row
+        borderWidth: 0
+        borderStyle: solid
+        borderRadius: none
       title:
         textAlign: left
       text:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-4
+          - pb-4
+          - pl-24
+          - pr-24
+        justifyContent: center
+        borderWidth: 1
   - type: MediaGallerySection
     title: Recent Works
     subtitle: ''
@@ -107,8 +125,8 @@ sections:
         caption: Image eight caption
         elementId: ''
     colors: colors-a
-    spacing: 29
-    columns: 4
+    spacing: 5
+    columns: 3
     aspectRatio: '1:1'
     showCaption: false
     enableHover: true
@@ -163,6 +181,19 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-7
+          - pb-7
+          - pl-32
+          - pr-32
+        justifyContent: center
+        borderWidth: 1
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
