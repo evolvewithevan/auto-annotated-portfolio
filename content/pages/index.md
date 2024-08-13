@@ -174,6 +174,7 @@ sections:
         justifyContent: center
         flexDirection: col
         borderColor: border-dark
+        borderRadius: xx-small
       title:
         textAlign: left
       text:
