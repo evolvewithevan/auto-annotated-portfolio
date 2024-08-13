@@ -14,8 +14,6 @@ sections:
     title: Let's make something awesome
     text: |
       Let's make something that truly captures your vision
-
-      .
     actions:
       - type: Button
         label: Order a commision
