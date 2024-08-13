@@ -55,7 +55,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: MediaGallerySection
-    title: Gallery
+    title: Recent Works
     subtitle: ''
     images:
       - type: ImageBlock
