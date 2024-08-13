@@ -51,7 +51,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderWidth: 3
-        borderStyle: dotted
+        borderStyle: double
         borderRadius: xx-large
       title:
         textAlign: left
