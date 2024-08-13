@@ -175,6 +175,8 @@ sections:
         flexDirection: col
         borderColor: border-dark
         borderRadius: xx-small
+        margin:
+          - ml-96
       title:
         textAlign: left
       text:
