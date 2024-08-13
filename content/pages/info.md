@@ -21,8 +21,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: >-
-        http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723527942/gyuem00lnnibwdsxb0gy.jpg
+      url: /images/bg.jpg
       altText: Hero image
     styles:
       self:
