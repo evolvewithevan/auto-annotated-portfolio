@@ -107,7 +107,7 @@ sections:
         caption: Caption of the image
         elementId: ''
     colors: colors-a
-    spacing: 76
+    spacing: 39
     columns: 4
     aspectRatio: '1:1'
     showCaption: false
