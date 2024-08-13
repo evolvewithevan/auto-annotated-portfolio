@@ -148,7 +148,7 @@ sections:
   - type: CtaSection
     title: ''
     text: |+
-      View
+      \<div style="text-align: center">View\</div>
 
     actions:
       - type: Button
