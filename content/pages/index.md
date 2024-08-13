@@ -135,7 +135,7 @@ sections:
         showIcon: true
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
     colors: colors-a
     backgroundSize: full
