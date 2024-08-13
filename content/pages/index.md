@@ -17,7 +17,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: ''
+        label: Order a commision
         altText: ''
         url: /
         showIcon: true
