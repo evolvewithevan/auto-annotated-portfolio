@@ -133,15 +133,6 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-        title: ''
-      - type: FeaturedItem
-        actions:
-          - type: Link
             label: Discord
             url: 'https://discord.com/'
         styles:
