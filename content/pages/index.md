@@ -66,7 +66,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
-          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523503/cba2omcqynoknuhszowk.jpg
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524728/qtgos3x9agnpkug6uh74.png
         altText: Image two
         caption: Image two caption
         elementId: ''
