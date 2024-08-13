@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: 'Blog - This page isnt meant to be found, But you found it! Thats pretty cool'
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
