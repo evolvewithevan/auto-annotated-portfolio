@@ -104,7 +104,7 @@ sections:
         url: >-
           https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523503/q4qjdtef1jsg5z9jkxhv.jpg
         altText: Image8
-        caption: Caption of the image
+        caption: Image 8 caption
         elementId: ''
     colors: colors-a
     spacing: 29
