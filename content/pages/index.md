@@ -145,7 +145,8 @@ sections:
         textAlign: center
   - type: CtaSection
     title: ''
-    text: ''
+    text: |2
+         
     actions:
       - type: Button
         label: View Portfolio
@@ -156,7 +157,7 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     elementId: ''
     styles:
@@ -164,17 +165,20 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-8
-          - pb-3
-          - pl-96
-          - pr-0
+          - pt-2
+          - pb-4
+          - pl-2
+          - pr-2
         alignItems: center
-        justifyContent: center
+        justifyContent: flex-end
         flexDirection: col
         borderColor: border-dark
         borderRadius: xx-small
         margin:
-          - ml-96
+          - ml-0
+          - mt-0
+          - mb-0
+          - mr-0
       title:
         textAlign: left
       text:
