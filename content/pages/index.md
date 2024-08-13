@@ -18,7 +18,7 @@ sections:
     actions:
       - type: Button
         label: Order a commision
-        altText: ''
+        altText: Order a commision button
         url: /
         showIcon: true
         icon: arrowRight
