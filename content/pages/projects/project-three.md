@@ -5,10 +5,8 @@ colors: colors-a
 date: '2024-08-14'
 client: Awesome tagline
 description: >-
-  Oh hey you found the projects page, Nice! Im going to be filling out these
-  pages with different projects I've worked on with plenty of pretty pictures
-  and brief breakdowns. Until then I dont have much for you besides a whole
-  bunch of Lorem Ipsum, Sorry ¯\_(ツ)_/¯
+  Oh hey you found the projects page, Nice! Right now "Art meets code : Reborn"
+  is the only page thats written, Go check it out!
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
