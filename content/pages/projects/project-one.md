@@ -5,8 +5,8 @@ colors: colors-a
 date: '2024-08-14'
 client: I wrote python for this shit
 description: >-
-  What started with me fucking around with my old scripts turned into this sweet
-  piece of work.
+  A story of Life and Death. Venturing into old hard drives quickly turned into
+  a rescue and revival mission of a precious tool. 
 featuredImage:
   type: ImageBlock
   url: >-
