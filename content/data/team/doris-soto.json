@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "firstName": "Doris",
-    "lastName": "Soto",
+    "firstName": "Evan",
+    "lastName": "",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
+        "url": "http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723623080/logo1_fneo0c.png",
         "altText": "Doris Soto photo"
     }
 }
