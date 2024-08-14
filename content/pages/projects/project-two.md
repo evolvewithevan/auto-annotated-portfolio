@@ -8,7 +8,7 @@ description: >-
   Oh hey you found the projects page, Nice! Im going to be filling out these
   pages with different projects I've worked on with plenty of pretty pictures
   and brief breakdowns. Until then I dont have much for you besides a whole
-  bunch of Lorem Ipsum, Sorry 
+  bunch of Lorem Ipsum, Sorry ¯\_(ツ)_/¯
 featuredImage:
   type: ImageBlock
   url: >-
