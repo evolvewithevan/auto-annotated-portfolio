@@ -5,10 +5,8 @@ colors: colors-a
 date: '2024-08-14'
 client: I wrote code for this shit
 description: >-
-  Oh hey you found the projects page, Nice! Im going to be filling out these
-  pages with different projects I've worked on with plenty of pretty pictures
-  and brief breakdowns. Until then I dont have much for you besides a whole
-  bunch of Lorem Ipsum, Sorry ¯\_(ツ)_/¯
+  What started with me fucking around with my old scripts turned into this sweet
+  piece of work.
 featuredImage:
   type: ImageBlock
   url: >-
