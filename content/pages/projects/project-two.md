@@ -10,8 +10,7 @@ description: >-
   ✩
 featuredImage:
   type: ImageBlock
-  url: >-
-    http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723516924/HBTherapy-small_mejlmc.jpg
+  url: /images/featured-Image2.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
