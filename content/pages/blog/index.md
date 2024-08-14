@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: 'Blog - This page isnt meant to be found, But you found it! Thats pretty cool'
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -29,4 +29,31 @@ postFeed:
 styles:
   title:
     textAlign: left
+topSections:
+  - type: QuoteSection
+    quote: >
+      Seriously this page isnt supposed to be linked anywhere, How did you end
+      up on it?
+    name: Evan
+    title: Freelance Visual Artist
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: left
+      name:
+        fontWeight": 500
+        textAlign: left
+      title:
+        fontWeight": 400
+        textAlign: left
 ---
