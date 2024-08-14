@@ -6,7 +6,8 @@ date: '2024-08-14'
 client: Awesome tagline
 description: >-
   Oh hey you found the projects page, Nice! Right now "Art meets code : Reborn"
-  is the only page thats written, Go check it out!
+  is the only page thats written, Read it for a sick tale of death and revival !
+  ✩
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
