@@ -1,21 +1,21 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: 'Art Meets Code: Reborn'
 colors: colors-a
 date: '2024-08-14'
-client: Awesome Tagline
+client: I wrote python for this shit
 description: >-
-  Oh hey you found the projects page, Nice! Im going to be filling out these
-  pages with different projects I've worked on with plenty of pretty pictures
-  and brief breakdowns. Until then I dont have much for you besides a whole
-  bunch of Lorem Ipsum, Sorry ¯\_(ツ)_/¯
+  What started with me fucking around with my old scripts turned into this sweet
+  piece of work.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: >-
+    http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524629/jrgn5sgwr8d33lyzeazu.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: >-
+    http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524629/jrgn5sgwr8d33lyzeazu.png
   altText: Project image
 backgroundImage:
   type: BackgroundImage
@@ -25,15 +25,27 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 100
 ---
+> **"Creativity is thinking up new things. Innovation is doing new things."**
+>
+>  – 
+>
+> *Theodore Levitt*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+I was going through my old hard drive one day and found a program I wrote way back when I was still getting good at this stuff, and I realized it had so much unrealized potential. It was such a supple little hatchling at the time, and yet incredibly powerful. Feeling the need to give it a modern edge, I revived it from the dead and breathed new life into it, making it even more refined than ever.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Digging deep into the trenches of one of my old drives one day I saw the baby program waiting for love. At the time to use the program, I would have to dig into the raw code, changing individual integers hoping I didn't accidentally nuke it. I realized that now, I actually have the skills to turn it into a proper program fit for a professional. So I got to work.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+![](https://preview--evolvewithevanportfolio-abe34.stackbit.dev/images/contact.jpg)
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Through brainstorming features, implementing them, trying them out, Coming up with more features, coding them, realizing I broke stuff, fixing the broken bits trying those out, and being inspired for even more novel ideas, I had ended up with a very feature-full script. This new script could turn 20 minutes of micro adjustments and tediousness, into 20 seconds of getting it right the first time. Now instead of changing every little variable dozens of times, I had the script set to be able to change these variables in very specific ways, saving myself from tons of mental math and risk of breaking things.
+
+Now I was left with tackling the biggest imperfection. User Interface. I had built something extremely useful, but only to someone who has a solid chance of being able to understand what they are using. I added the libraries and framework. I started making buttons, options, previews and more previews. With nothing left to do but to plug everything together and pray it works, I did exactly that. It didn't. First it was simple things but then it turned into a weird series of problems I wouldnt even have expected to think about at the time. Eventually however, I slayed the dragon. I turned what was once a skeleton in a dusty closet into a warrior prepared and ready to attack anything I throw at it. 
+
+> **"Every time you invent something new, make mistakes, and fix them, you gain a little bit of understanding of how you create something new."**
+>
+>  – 
+>
+> *James Dyson*
+
