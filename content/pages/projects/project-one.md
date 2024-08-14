@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: New program !
+title: 'Art Meets Code: Reborn'
 colors: colors-a
 date: '2024-08-14'
 client: I wrote code for this shit
