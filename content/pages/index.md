@@ -123,7 +123,7 @@ sections:
         caption: Image eight caption
         elementId: ''
     colors: colors-a
-    spacing: 8
+    spacing: 12
     columns: 4
     aspectRatio: '1:1'
     showCaption: false
