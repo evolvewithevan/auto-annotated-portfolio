@@ -11,7 +11,8 @@ description: >-
   bunch of Lorem Ipsum, Sorry ¯\_(ツ)_/¯
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: >-
+    http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524629/jrgn5sgwr8d33lyzeazu.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
