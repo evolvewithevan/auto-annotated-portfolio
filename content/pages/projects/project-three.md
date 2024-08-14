@@ -3,7 +3,7 @@ type: ProjectLayout
 title: One more cool project
 colors: colors-a
 date: '2024-08-14'
-client: Awesome client
+client: Awesome tagline
 description: >-
   Oh hey you found the projects page, Nice! Im going to be filling out these
   pages with different projects I've worked on with plenty of pretty pictures
