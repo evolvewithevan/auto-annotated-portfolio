@@ -1,10 +1,11 @@
 ---
 type: PageLayout
-title: Home
+title: Lets make something awesome  ✦˚
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: >-
+    https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723688505/Untitled9_urlht1.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
