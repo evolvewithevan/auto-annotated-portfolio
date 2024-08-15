@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: 'Lets make something awesome '
+title: Lets make something awesome  ✦˚
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
