@@ -35,7 +35,7 @@ I was going through my old hard drive one day and found a program I wrote way ba
 
 Digging deep into the trenches of one of my old drives one day I saw the baby program waiting for love. At the time to use the program, I would have to dig into the raw code, changing individual integers hoping I didn't accidentally nuke it. I realized that now, I actually have the skills to turn it into a proper program fit for a professional. So I got to work.
 
-![](https://preview--evolvewithevanportfolio-abe34.stackbit.dev/images/contact.jpg)Sorry for this stock image, This is going to be replaced by actual screenshots soon!
+![](https://preview--evolvewithevanportfolio-abe34.stackbit.dev/images/contact.jpg)*\<sub>(Sorry for this stock image, This is going to be replaced by actual screenshots soon!)\</sub>*
 
 Through brainstorming features, implementing them, trying them out, Coming up with more features, coding them, realizing I broke stuff, fixing the broken bits trying those out, and being inspired for even more novel ideas, I had ended up with a very feature-full script. This new script could turn 20 minutes of micro adjustments and tediousness, into 20 seconds of getting it right the first time. Now instead of changing every little variable dozens of times, I had the script set to be able to change these variables in very specific ways, saving myself from tons of mental math and risk of breaking things.
 
