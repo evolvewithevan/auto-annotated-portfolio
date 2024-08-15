@@ -5,7 +5,7 @@ colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: >-
-    http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723688140/Untitled6_spoerk.png
+    https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723688505/Untitled9_urlht1.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
