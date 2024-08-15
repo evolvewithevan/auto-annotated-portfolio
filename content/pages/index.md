@@ -4,7 +4,8 @@ title: Lets make something awesome  ✦˚
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: >-
+    http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723688140/Untitled6_spoerk.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
