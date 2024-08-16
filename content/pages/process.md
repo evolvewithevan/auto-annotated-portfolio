@@ -66,7 +66,7 @@ sections:
         label: Inkscape
         url: ''
       - type: Label
-        label: Next.js
+        label: GIMP
         url: ''
       - type: Label
         label: Netlify
