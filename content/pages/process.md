@@ -70,7 +70,7 @@ sections:
         url: >-
           http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723777767/Major-Credit-Card-Logo-PNG-Pic-529247587_yjlpmt.png
         altText: logo three
-        caption: Caption of the image
+        caption: ''
         elementId: ''
       - type: ImageBlock
         url: >-
