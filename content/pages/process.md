@@ -60,7 +60,7 @@ sections:
         label: Davinci Resolve
         url: ''
       - type: Label
-        label: React
+        label: Blender
         url: ''
       - type: Label
         label: Microsoft Office
