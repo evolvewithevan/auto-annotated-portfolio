@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Info page
+title: process
 sections:
   - type: HeroSection
     title: How it all works
