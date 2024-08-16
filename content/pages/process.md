@@ -60,7 +60,7 @@ sections:
         url: >-
           http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723777875/email-mail-money-cash-finance-512-3040866221_davit0.png
         altText: logo one
-        caption: Caption of the image
+        caption: Cash-by-mail
         elementId: ''
       - type: ImageBlock
         url: >-
