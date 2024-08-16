@@ -57,7 +57,8 @@ sections:
     subtitle: 'I accept the following forms of payment:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: >-
+          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723777875/email-mail-money-cash-finance-512-3040866221_davit0.png
         altText: logo one
         caption: Caption of the image
         elementId: ''
