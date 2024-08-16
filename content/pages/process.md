@@ -80,7 +80,7 @@ sections:
         url: >-
           http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723777491/monero_xmr_icon_244920-1657288323_isjbum.png
         altText: logo five
-        caption: XMR for the privacy focused
+        caption: Monero XMR
         elementId: ''
     colors: colors-f
     spacing: 16
