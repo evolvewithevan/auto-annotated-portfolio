@@ -175,7 +175,7 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: 'http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723783494/pf1_xexucs.png'
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
