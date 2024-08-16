@@ -75,7 +75,7 @@ sections:
         label: Photography
         url: ''
       - type: Label
-        label: C++
+        label: Painting
         url: ''
       - type: Label
         label: Swift
