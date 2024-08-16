@@ -63,7 +63,7 @@ sections:
         label: Blender
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Inkscape
         url: ''
       - type: Label
         label: Next.js
