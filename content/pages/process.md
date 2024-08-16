@@ -77,9 +77,6 @@ sections:
       - type: Label
         label: Painting
         url: ''
-      - type: Label
-        label: Swift
-        url: ''
     colors: colors-f
     elementId: ''
     styles:
