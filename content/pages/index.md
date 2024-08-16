@@ -29,7 +29,7 @@ sections:
       - type: Link
         label: Learn more
         altText: ''
-        url: process
+        url: /process
         showIcon: true
         icon: arrowRight
         iconPosition: right
