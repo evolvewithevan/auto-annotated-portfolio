@@ -69,7 +69,7 @@ sections:
         label: GIMP
         url: ''
       - type: Label
-        label: Pythong
+        label: Python
         url: ''
       - type: Label
         label: Pancakes
