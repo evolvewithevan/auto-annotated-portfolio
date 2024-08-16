@@ -55,8 +55,8 @@ sections:
   - type: MediaGallerySection
     title: ''
     subtitle: >-
-      I accept the following forms of payment in order to meet you where you
-      are:
+      I accept the following forms of payment, in order to meet you where you
+      are.
     images:
       - type: ImageBlock
         url: >-
