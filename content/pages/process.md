@@ -118,9 +118,7 @@ sections:
         borderWidth: 1
   - type: MediaGallerySection
     title: ''
-    subtitle: >-
-      I accept the following forms of payment, in order to meet you where you
-      are.
+    subtitle: 'I accept the many forms of payment, in order to meet you where you are.'
     images:
       - type: ImageBlock
         url: >-
