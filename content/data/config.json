@@ -22,7 +22,7 @@
                 "type": "Link",
                 "label": "Learn more",
                 "altText": "",
-                "url": "/process",
+                "url": "/learn-more",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
