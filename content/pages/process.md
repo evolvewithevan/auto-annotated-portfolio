@@ -73,7 +73,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723777630/Apple-Pay-Logo-0%D9%A4-651154357_jkberc.png
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723777691/apple-pay-official-logo-card-icon-1140x730-1744097509_t5pmp3.png
         altText: logo four
         caption: Caption of the image
         elementId: ''
