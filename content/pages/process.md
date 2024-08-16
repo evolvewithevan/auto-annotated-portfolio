@@ -62,7 +62,8 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: >-
+          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723777826/Bank_Transfer_Logo-2048x1365-1530197829_r0ukiv.png
         altText: logo two
         caption: Caption of the image
         elementId: ''
