@@ -11,11 +11,10 @@ sections:
       solid mutual understanding of their expectations. Once that is
       established, payment terms will be agreed upon and then work will begin.
       Once work is started the client will receive status updates throughout
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Client satisfaction is my number one priority and the focus for everything
+      I do. I will do everything within reason to ensure satisfaction and to
+      maintain a professional and mutually beneficial relationship. 
     actions: []
     media:
       type: ImageBlock
