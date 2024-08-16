@@ -78,7 +78,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
-          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723777491/monero_xmr_icon_244920-1657288323_isjbum.png
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723777577/monero-xmr-logo-819735746_kdoued.png
         altText: logo five
         caption: Monero XMR
         elementId: ''
