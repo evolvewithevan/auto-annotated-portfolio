@@ -72,7 +72,7 @@ sections:
         label: Python
         url: ''
       - type: Label
-        label: Photograghy
+        label: Photography
         url: ''
       - type: Label
         label: C++
