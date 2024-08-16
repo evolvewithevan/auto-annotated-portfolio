@@ -54,7 +54,7 @@ sections:
         borderWidth: 1
   - type: MediaGallerySection
     title: ''
-    subtitle: 'I worked with these folks:'
+    subtitle: I accept the following forms of payment
     images:
       - type: ImageBlock
         url: /images/logo1.svg
