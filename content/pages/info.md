@@ -19,7 +19,7 @@ sections:
       for many years across several different mediums. Nowadays I focus on
       digital art but I often find myself using my photography skills or various
       of the other physical tools at my disposal to make something that truly
-      stands out
+      stands out. 
 
     media:
       type: ImageBlock
