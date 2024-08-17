@@ -48,5 +48,5 @@ Notably, Those long artifacts I mentioned early were still well and alive, This 
 
 Needless to say I learned my lesson that day, Old shit is awesome!
 
-## *Thank you for reading the write-up for one of my old projects! If you enjoyed that one you may enjoy one of my other stories shown below!*
+##### *Thank you for reading the write-up for one of my old projects! If you enjoyed that one you may enjoy one of my other stories shown below!*
 
