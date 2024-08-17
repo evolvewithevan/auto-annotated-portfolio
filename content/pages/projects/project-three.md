@@ -4,7 +4,7 @@ title: 'Wait, Thats not a Camera?'
 colors: colors-a
 date: '2024-08-14'
 client: What a strange technique
-description: Sometimes instead of making documents or taking pict
+description: ''
 featuredImage:
   type: ImageBlock
   url: 'http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723866027/IT_tsz3jb.png'
