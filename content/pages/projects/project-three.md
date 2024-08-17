@@ -10,7 +10,7 @@ description: >-
   ✩
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: 'http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723866027/IT_tsz3jb.png'
   altText: Project thumbnail image
 media:
   type: ImageBlock
