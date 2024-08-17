@@ -209,7 +209,7 @@ sections:
 
     actions:
       - type: Button
-        label: Try it now
+        label: Projects
         altText: ''
         url: /
         showIcon: true
