@@ -15,7 +15,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Hey, I'm Evan and i'm a freelance visual artist. I've been making art
+      ### Hey, I'm Evan and i'm a freelance visual artist. I've been making art
       for many years across several different mediums. Nowadays I focus on
       digital art but I often find myself using my photography skills or various
       of the other physical tools at my disposal to make something that truly
