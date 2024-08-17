@@ -1,31 +1,56 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: 'Wait, Thats not a Camera?'
 colors: colors-a
 date: '2024-08-14'
-client: Awesome tagline
+client: How unusual
 description: >-
-  Oh hey you found the projects page, Nice! Right now "ART MEETS CODE : REBORN"
-  is the only page thats written, Read it for a sick tale of death and revival !
-  ✩
+  Searching through decades old devices one day, in search of a new tool, I
+  found something I didnt think much of at first. After some experiments
+  however, It turns out I had found what would an incredible tool. 
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: 'http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723866027/IT_tsz3jb.png'
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: 'http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723866027/IT_tsz3jb.png'
   altText: Project image
+bottomSections: []
 ---
+Digging through my parents piles of old forgotten tech one day, through the dozens and dozens of yards of tangled cords, I stumbled across an old printer. Curious, I took it out and had a look. By some miracle I found the power cord in the nest of wires and plugged it up. Naturally the printing mechanism itself had failed, leaving it in a shallow and dusty grave but I couldnt shake the feeling that there was something useful I could do with it. Then it dawned on me, The scanner. Maybe the scanner still works, I mean its not like it ever got nearly as much abuse as the rest of the machine.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+I dug up an SD card from my camera bag, put it into the machine, tossed in a random note and fired it up. After what felt like an eternity of strange mechanical noises, It chimed. I opened the lid and everything looked the same. Pulling out the SD card and putting it in the laptop, I was pleased to find an almost perfect scan of the note.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+> “Hey I wonder if this thing has color?”
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+The gears in my mind started spinning and I needed to know this things limits. Grabbing a piece of paper and quickly scribbling up something detailed and with the only other colored pen I had on me, I drew a rain cloud. Again, I gave the gadget its SD card, scribblings, and its job and it just got straight back to work like it didn't just spend 10 years forgotten in the bottom of a closet. It whirred and whined, whipping one more piece of work for me to wait and watch for. Ding! Out comes the SD card, Into the laptop, and Boom! There it is, clear as day with surprising quality.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+![](https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723867697/SCAN0108_x0snrz.jpg)
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+Shocked with just how much clarity it carried, I couldn't cancel my quest to come up with a complication that the contraption conveyed. I looked closer. Looking for a distortion in my lines or an off color, I realized that my details werent the problem, But strangely enough, the problem was with the details of the background of the image on the paper itself.  I looked back at the physical paper but no, It definitely was the scanners seemingly small slip-up. I looked back at the old image and sure enough it was there too.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+The scanner, for some reason, Left hardly noticable, but a noticeable long track down the image that was ever so slightly inconsistent with the rest of the image. If you look closer at the image you may be able to see it, But here's a better example:
+
+![](/images/Screenshot_20240816_211542.png)
+
+Seeing this I wasn't sure how to take it. On one hand it could work as a regular document scanner but then any old phone or camera can do that so whats the point in dragging it home. I took one last close look and realized I was wrong. It wasnt just one discrepancy of inconsistency, no, they were Everywhere. Maybe I could do something with that information... I wonder... How far can this thing scan anyways?... I held my hand over the device making a peace sign and went to start the scan.
+
+> "Wait? Will it even work with the lid open? "
+
+*click*
+
+Again, It fired right up I watched its bright laser-like beam move across under the entire surface of the glass, going directly under my hand and right past it. Ding! SD Out, Laptop Up, Gallery Open. The result was fascinating, It was like the parts of my hand closest looked fine but even a few milimeters away from the glass it was very blurry. It almost even looked fake, Like a camera with monumentally short focus. Unfortunately since then I've lost the original scan but another image captured of my hair resting on the plate demonstrates clearly how only the hair actually on the surface has any chance of being recognizable
+
+![](/images/Screenshot_20240816_213630.png)
+
+Notably, Those long artifacts I mentioned early were still well and alive, This time hiding themselves in a sea of grey. When I took that image of my hand and brought it into the software I use to make my art, and I started tweaking things and messing with stuff, They resonated themselves as an intensly unique pattern that lay across the background of my art. Looking back at the main image of this project, You will see the long striations strewn throughout the main substance of everything but the subject.
+
+Needless to say I learned my lesson that day, Old shit is awesome!
+
+
+
+
+
+##### *Thank you for reading the write-up for one of my old projects! If you enjoyed that one you may enjoy one of my other stories shown below!*
+
