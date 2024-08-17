@@ -205,9 +205,10 @@ sections:
     title: >-
       Check out the projects page to read about the interesting stories behind
       some of my pieces
-    text: >
-      Check out the projects page to read about the interesting stories behind
-      some of my pieces
+    text: >+
+      #### Check out the projects page to read about the interesting stories
+      behind some of my pieces
+
     actions:
       - type: Button
         label: Try it now
