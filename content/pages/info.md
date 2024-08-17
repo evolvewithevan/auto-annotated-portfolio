@@ -203,9 +203,9 @@ sections:
       <evolvewithevan@gmail.com>
   - type: CtaSection
     title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Check out the projects page to read about the interesting stories behind
+      some of my pieces
     actions:
       - type: Button
         label: Try it now
