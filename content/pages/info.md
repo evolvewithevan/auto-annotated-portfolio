@@ -50,6 +50,43 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     subtitle: ''
+  - type: CtaSection
+    title: ''
+    text: >+
+      #### Check out the projects page to read about the interesting stories
+      behind some of my pieces
+
+    actions:
+      - type: Button
+        label: Projects
+        altText: ''
+        url: /projects
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: TextSection
     colors: colors-f
     variant: variant-a
@@ -201,41 +238,4 @@ sections:
     colors: colors-f
     text: |
       <evolvewithevan@gmail.com>
-  - type: CtaSection
-    title: ''
-    text: >+
-      #### Check out the projects page to read about the interesting stories
-      behind some of my pieces
-
-    actions:
-      - type: Button
-        label: Projects
-        altText: ''
-        url: /projects
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 ---
