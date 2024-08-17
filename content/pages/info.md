@@ -87,31 +87,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: ''
-    text: >+
-      #### Check out the projects page to read about the interesting stories
-      behind some of my pieces
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-4
-          - pb-4
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: DividerSection
     styles:
       self:
