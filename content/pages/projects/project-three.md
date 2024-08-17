@@ -46,7 +46,10 @@ Again, It fired right up I watched its bright laser-like beam move across under 
 
 Notably, Those long artifacts I mentioned early were still well and alive, This time hiding themselves in a sea of grey. When I took that image of my hand and brought it into the software I use to make my art, and I started tweaking things and messing with stuff, They resonated themselves as an intensly unique pattern that lay across the background of my art. Looking back at the main image of this project, You will see the long striations strewn throughout the main substance of everything but the subject.
 
-
-
 Needless to say I learned my lesson that day, Old shit is awesome!
 
+
+
+
+
+Thank you for reading the write-up for one of my old projects! If you enjoyed that one you may enjoy one of my other stories shown below!
