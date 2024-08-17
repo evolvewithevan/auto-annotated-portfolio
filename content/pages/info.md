@@ -202,9 +202,7 @@ sections:
     text: |
       <evolvewithevan@gmail.com>
   - type: CtaSection
-    title: >-
-      Check out the projects page to read about the interesting stories behind
-      some of my pieces
+    title: ''
     text: >+
       #### Check out the projects page to read about the interesting stories
       behind some of my pieces
