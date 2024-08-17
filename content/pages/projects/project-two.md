@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Another cool project
 colors: colors-a
-date: '1999-06-14'
+date: '2006-06-14'
 client: Awesome client
 description: >-
   Oh hey you found the projects page, Nice! Right now this page's tale is
