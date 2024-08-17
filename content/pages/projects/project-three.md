@@ -16,6 +16,36 @@ media:
   type: ImageBlock
   url: 'http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723866027/IT_tsz3jb.png'
   altText: Project image
+bottomSections:
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: The Section Title
+    subtitle: The section subtitle
+    text: >-
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      text:
+        textAlign: center
 ---
 Digging through my parents piles of old forgotten tech one day, through the dozens and dozens of yards of tangled cords, I stumbled across an old printer. Curious, I took it out and had a look. By some miracle I found the power cord in the nest of wires and plugged it up. Naturally the printing mechanism itself had failed, leaving it in a shallow and dusty grave but I couldnt shake the feeling that there was something useful I could do with it. Then it dawned on me, The scanner. Maybe the scanner still works, I mean its not like it ever got nearly as much abuse as the rest of the machine.
 
