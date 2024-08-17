@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Art Meets Code: Reborn'
 colors: colors-a
 date: '2024-08-14'
-client: I wrote python for this shit
+client: I wrote code for this shit
 description: >-
   A story of Life and Death. Venturing into old hard drives quickly turned into
   a rescue and revival mission of a precious tool. 
