@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: 'Wait, Thats not a Camera?'
 colors: colors-a
 date: '2024-08-14'
 client: Awesome tagline
