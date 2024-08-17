@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: 'Wait, Thats not a Camera?'
 colors: colors-a
-date: '2024-08-14'
+date: '2024-08-16'
 client: How unusual
 description: >-
   Searching through decades old devices one day, in search of a new tool, I
