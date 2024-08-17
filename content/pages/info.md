@@ -15,10 +15,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Hey, I'm Evan and i'm a freelance visual artist. I am absolutely in
-      love with music. When I’m not coding, writing or creating, I'm listening
-      to music or getting involved in the scene. I'm always searching for
-      creators to work with !
+      ## Hey, I'm Evan and i'm a freelance visual artist. I've been making art
+      for many years across several different mediums. Nowadays I focus on
+      digital art but I often find myself using my photography skills or various
+      of the other physical tools at my disposal to make something that truly
+      stands out
 
     media:
       type: ImageBlock
