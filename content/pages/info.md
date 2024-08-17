@@ -54,9 +54,10 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ''
-    text: >
-      Check out the projects page to read about the interesting stories behind
-      some of my pieces 
+    text: >+
+      #### Check out the projects page to read about the interesting stories
+      behind some of my pieces
+
     elementId: ''
     styles:
       self:
