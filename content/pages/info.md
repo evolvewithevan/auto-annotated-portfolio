@@ -23,7 +23,8 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/gallery-1.jpg
+      url: >-
+        http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723854225/games_crt_1_snqsgh.jpg
       altText: Hero image
     styles:
       self:
