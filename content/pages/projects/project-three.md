@@ -7,7 +7,7 @@ client: How unusual
 description: >-
   Searching through decades old devices one day, in search of a new tool, I
   found something I didnt think much of at first. After some experiments
-  however, It turns out had found what would an incredible tool. 
+  however, It turns out I had found what would an incredible tool. 
 featuredImage:
   type: ImageBlock
   url: 'http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723866027/IT_tsz3jb.png'
