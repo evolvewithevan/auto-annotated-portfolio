@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Wait, Thats not a Camera?'
 colors: colors-a
 date: '2024-08-14'
-client: What a strange technique
+client: How unusual
 description: ''
 featuredImage:
   type: ImageBlock
