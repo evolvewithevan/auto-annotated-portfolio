@@ -53,9 +53,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: >-
-      Check out the projects page to read about the interesting stories behind
-      some of my pieces
+    title: ''
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
