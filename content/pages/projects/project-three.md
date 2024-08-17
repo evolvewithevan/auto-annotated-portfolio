@@ -4,7 +4,10 @@ title: 'Wait, Thats not a Camera?'
 colors: colors-a
 date: '2024-08-14'
 client: How unusual
-description: ''
+description: >-
+  Searching through decades old devices one day, in search of a new tool, I
+  found something I didnt think much of at first. After some experiments
+  however, It turns out had found what would an incredible tool. 
 featuredImage:
   type: ImageBlock
   url: 'http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723866027/IT_tsz3jb.png'
