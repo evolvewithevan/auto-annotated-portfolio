@@ -2,12 +2,12 @@
 type: ProjectLayout
 title: Another cool project
 colors: colors-a
-date: '2024-08-14'
+date: '2024-08-06'
 client: Awesome client
 description: >-
-  Oh hey you found the projects page, Nice! Right now "ART MEETS CODE : REBORN"
-  is the only page thats written, Read it for a sick tale of death and revival !
-  ✩
+  Oh hey you found the projects page, Nice! Right now this page's tale is
+  unwritten. Check out the main project page to read the other two tellings of
+  tales I traversed ! ✩
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image2.jpg
