@@ -4,7 +4,8 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: >-
+    http://res.cloudinary.com/dd4d1ezxa/image/upload/v1723852944/abme3_qicpky.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -14,14 +15,15 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Hey, I'm Evan and i'm a freelance visual artist. I am absolutely in
-      love with music. When I’m not coding, writing or creating, I'm listening
-      to music or getting involved in the scene. I'm always searching for
-      creators to work with !
+      ### Hey, I'm Evan and i'm a freelance visual artist. I've been making art
+      for many years across several different mediums. Nowadays I focus on
+      digital art but I often find myself using my photography skills or various
+      of the other physical tools at my disposal to make something that truly
+      stands out. 
 
     media:
       type: ImageBlock
-      url: /images/bg.jpg
+      url: /images/gallery-1.jpg
       altText: Hero image
     styles:
       self:
@@ -47,6 +49,44 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    subtitle: ''
+  - type: CtaSection
+    title: ''
+    text: >+
+      #### Check out the projects page to read about the interesting stories
+      behind some of my pieces
+
+    actions:
+      - type: Button
+        label: Projects
+        altText: ''
+        url: /projects
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-4
+          - pb-4
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: DividerSection
     styles:
       self:
