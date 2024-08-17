@@ -49,9 +49,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    subtitle: >-
-      Check out the projects page to read about some of the interesting
-      techniques I've used before
+    subtitle: ''
   - type: DividerSection
     styles:
       self:
