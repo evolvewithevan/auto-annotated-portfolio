@@ -118,7 +118,7 @@ sections:
         borderWidth: 1
   - type: MediaGallerySection
     title: ''
-    subtitle: We accept many payment types.
+    subtitle: 'We accept the following forms of payment :'
     images:
       - type: ImageBlock
         url: >-
