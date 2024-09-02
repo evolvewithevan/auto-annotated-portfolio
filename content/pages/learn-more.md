@@ -118,7 +118,7 @@ sections:
         borderWidth: 1
   - type: MediaGallerySection
     title: ''
-    subtitle: 'I accept many forms of payment, in order to meet you where you are.'
+    subtitle: We accept many payment types.
     images:
       - type: ImageBlock
         url: >-
