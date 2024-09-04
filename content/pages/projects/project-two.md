@@ -4,7 +4,7 @@ title: New Toy !
 colors: colors-a
 date: '2024-08-06'
 client: Exploring Hex
-description: One of the things I always to be extremely interesting
+description: 'One of the things I always enjoy is finding and learning about new tools. '
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image2.jpg
