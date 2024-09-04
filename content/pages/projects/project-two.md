@@ -3,7 +3,7 @@ type: ProjectLayout
 title: New Toy !
 colors: colors-a
 date: '2024-08-06'
-client: Awesome client
+client: Exploring Hex
 description: >-
   Oh hey you found the projects page, Nice! Right now this page's tale is
   unwritten. Check out the main project page to read the other two tellings of
