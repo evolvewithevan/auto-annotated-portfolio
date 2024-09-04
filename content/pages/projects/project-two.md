@@ -4,10 +4,7 @@ title: New Toy !
 colors: colors-a
 date: '2024-08-06'
 client: Exploring Hex
-description: >-
-  Oh hey you found the projects page, Nice! Right now this page's tale is
-  unwritten. Check out the main project page to read the other two tellings of
-  tales I traversed ! ✩
+description: One of the things I always to be extremely interesting
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image2.jpg
