@@ -189,7 +189,7 @@ sections:
          
     actions:
       - type: Button
-        label: View Portfolio
+        label: Order a commision
         altText: ''
         url: 'https://www.artstation.com/evolve-with-evan'
         showIcon: true
