@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Overhaul
 colors: colors-a
-date: '2024-08-06'
+date: '2024-09-06'
 client: Exploring Hex
 description: 'One of the things I always enjoy is finding and learning about new tools. '
 featuredImage:
