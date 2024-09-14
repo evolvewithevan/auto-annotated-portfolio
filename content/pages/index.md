@@ -111,7 +111,7 @@ sections:
         justifyContent: center
     title: Recent Projects
   - type: MediaGallerySection
-    title: Recent Works
+    title: Portfolio
     subtitle: ''
     images:
       - type: ImageBlock
@@ -164,7 +164,7 @@ sections:
         elementId: ''
     colors: colors-a
     spacing: 12
-    columns: 4
+    columns: 3
     aspectRatio: '1:1'
     showCaption: false
     enableHover: true
@@ -189,9 +189,9 @@ sections:
          
     actions:
       - type: Button
-        label: View Portfolio
+        label: Order a commision
         altText: ''
-        url: 'https://www.artstation.com/evolve-with-evan'
+        url: 'https://tally.so/r/m6xgkY'
         showIcon: true
         icon: arrowRight
         iconPosition: right
