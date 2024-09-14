@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Overhaul
+title: UX Overhaul
 colors: colors-a
 date: '2024-09-14'
 client: Exploring Hex
