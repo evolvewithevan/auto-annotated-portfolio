@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: ''
+title: Hexadecimal Visuals
 colors: colors-a
 date: '2024-09-14'
 client: Exploring Hex
