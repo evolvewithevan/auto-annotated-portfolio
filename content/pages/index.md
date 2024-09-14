@@ -108,6 +108,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
+    title: Projects
   - type: MediaGallerySection
     title: Recent Works
     subtitle: ''
