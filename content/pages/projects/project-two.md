@@ -1,13 +1,10 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: New Toy !
 colors: colors-a
 date: '2024-08-06'
-client: Awesome client
-description: >-
-  Oh hey you found the projects page, Nice! Right now this page's tale is
-  unwritten. Check out the main project page to read the other two tellings of
-  tales I traversed ! ✩
+client: Exploring Hex
+description: 'One of the things I always enjoy is finding and learning about new tools. '
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image2.jpg
