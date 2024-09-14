@@ -72,7 +72,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: ''
     actions:
       - type: Link
         label: See all projects
