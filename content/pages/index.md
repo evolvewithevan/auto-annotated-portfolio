@@ -111,7 +111,7 @@ sections:
         justifyContent: center
     title: Recent Projects
   - type: MediaGallerySection
-    title: Recent Works
+    title: Portfolio
     subtitle: ''
     images:
       - type: ImageBlock
