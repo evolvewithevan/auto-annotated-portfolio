@@ -4,7 +4,9 @@ title: Hexadecimal Visuals
 colors: colors-a
 date: '2024-09-14'
 client: Exploring Hex
-description: 'One of the things I always enjoy is finding and learning about new tools. '
+description: >-
+  One of my favorite parts about the art that I make is the opportunity they
+  afford me to search 
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image2.jpg
