@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: New Toy !
+title: Overhaul
 colors: colors-a
 date: '2024-08-06'
 client: Exploring Hex
