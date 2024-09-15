@@ -98,9 +98,7 @@ sections:
         fontWeight": 400
         textAlign: left
   - type: MediaGallerySection
-    title: >-
-      "When the medium fails conspicuously, and especially if it fails in new
-      ways, the listener believes something is happening beyond its limits."
+    title: ''
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
