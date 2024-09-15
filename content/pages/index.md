@@ -105,6 +105,7 @@ sections:
         justifyContent: center
         margin:
           - ml-3
+          - mr-3
       title:
         textAlign: left
       subtitle:
