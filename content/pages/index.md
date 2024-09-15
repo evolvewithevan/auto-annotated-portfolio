@@ -71,37 +71,6 @@ sections:
           - pr-24
         justifyContent: center
         borderWidth: 1
-  - type: MediaGallerySection
-    title: ''
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726438851/lel10_av8kop.png
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
-    colors: colors-f
-    spacing: 16
-    columns: 1
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
-          - pl-0
-          - pr-0
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -154,6 +123,37 @@ sections:
       actions:
         justifyContent: center
     title: Recent Projects
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: >-
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726438851/lel10_av8kop.png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 1
+    aspectRatio: auto
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-0
+          - pr-0
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - type: MediaGallerySection
     title: Portfolio
     subtitle: ''
