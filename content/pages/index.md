@@ -71,32 +71,6 @@ sections:
           - pr-24
         justifyContent: center
         borderWidth: 1
-  - type: QuoteSection
-    quote: >
-      "When the medium fails conspicuously, and especially if it fails in new
-      ways, the listener believes something is happening beyond its limits."
-    name: Johnna Doe
-    title: Product Marketing Manager at Acme
-    colors: colors-d
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-11
-          - pb-11
-          - pl-4
-          - pr-4
-        justifyContent: center
-      quote:
-        textAlign: left
-      name:
-        fontWeight": 500
-        textAlign: left
-      title:
-        fontWeight": 400
-        textAlign: left
   - type: MediaGallerySection
     title: ''
     subtitle: ''
