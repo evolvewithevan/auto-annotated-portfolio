@@ -71,19 +71,6 @@ sections:
           - pr-24
         justifyContent: center
         borderWidth: 1
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-4
-          - pb-4
-          - pl-24
-          - pr-24
-        justifyContent: center
-        borderWidth: 1
   - type: FeaturedProjectsSection
     subtitle: ''
     actions:
@@ -154,6 +141,19 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-4
+          - pb-4
+          - pl-24
+          - pr-24
+        justifyContent: center
+        borderWidth: 1
   - type: MediaGallerySection
     title: Portfolio
     subtitle: ''
