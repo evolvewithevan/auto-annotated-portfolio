@@ -103,6 +103,8 @@ sections:
           - pl-6
           - pr-6
         justifyContent: center
+        margin:
+          - ml-3
       title:
         textAlign: left
       subtitle:
