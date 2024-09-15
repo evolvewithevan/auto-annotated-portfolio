@@ -96,13 +96,16 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         padding:
           - pt-24
           - pb-24
-          - pl-4
-          - pr-4
+          - pl-6
+          - pr-6
         justifyContent: center
+        margin:
+          - ml-3
+          - mr-3
       title:
         textAlign: left
       subtitle:
@@ -110,6 +113,50 @@ sections:
       actions:
         justifyContent: center
     title: Recent Projects
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: >-
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726438851/lel10_av8kop.png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 1
+    aspectRatio: auto
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-0
+          - pr-0
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-4
+          - pb-4
+          - pl-24
+          - pr-24
+        justifyContent: center
+        borderWidth: 1
   - type: MediaGallerySection
     title: Portfolio
     subtitle: ''
@@ -189,7 +236,7 @@ sections:
          
     actions:
       - type: Button
-        label: Order a commision
+        label: Order a commision ⌁
         altText: ''
         url: 'https://tally.so/r/m6xgkY'
         showIcon: true
