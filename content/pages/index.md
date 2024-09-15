@@ -76,7 +76,8 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: >-
+          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1726438192/lel7_sflvhy.png
         altText: Image one
         caption: Image one caption
         elementId: ''
