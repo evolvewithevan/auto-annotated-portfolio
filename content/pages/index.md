@@ -77,7 +77,7 @@ sections:
     images:
       - type: ImageBlock
         url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726438565/lel9_uvxkq4.png
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726438851/lel10_av8kop.png
         altText: Image one
         caption: Image one caption
         elementId: ''
