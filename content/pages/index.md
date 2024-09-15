@@ -77,7 +77,7 @@ sections:
       ways, the listener believes something is happening beyond its limits."
     name: Johnna Doe
     title: Product Marketing Manager at Acme
-    colors: colors-b
+    colors: colors-c
     elementId: ''
     styles:
       self:
