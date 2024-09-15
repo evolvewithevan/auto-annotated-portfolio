@@ -233,7 +233,7 @@ sections:
          
     actions:
       - type: Button
-        label: Order a commision
+        label: Order a commision ⌁
         altText: ''
         url: 'https://tally.so/r/m6xgkY'
         showIcon: true
