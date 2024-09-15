@@ -58,19 +58,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-4
-          - pb-4
-          - pl-24
-          - pr-24
-        justifyContent: center
-        borderWidth: 1
   - type: QuoteSection
     quote: >
       "When the medium fails conspicuously, and especially if it fails in new
@@ -97,6 +84,19 @@ sections:
       title:
         fontWeight": 400
         textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-4
+          - pb-4
+          - pl-24
+          - pr-24
+        justifyContent: center
+        borderWidth: 1
   - type: FeaturedProjectsSection
     subtitle: ''
     actions:
