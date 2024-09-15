@@ -237,7 +237,7 @@ sections:
         altText: ''
         url: 'https://tally.so/r/m6xgkY'
         showIcon: true
-        icon: ''
+        icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
