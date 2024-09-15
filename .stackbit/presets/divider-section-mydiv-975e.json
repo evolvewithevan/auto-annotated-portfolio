@@ -1,0 +1,35 @@
+{
+    "model": "DividerSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "mydiv",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Custom"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Divider",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "width": "full",
+                        "padding": [
+                            "pt-4",
+                            "pb-4",
+                            "pl-24",
+                            "pr-24"
+                        ],
+                        "justifyContent": "center",
+                        "borderWidth": 1
+                    }
+                }
+            },
+            "thumbnail": "images/divider-section-mydiv-975e.png"
+        }
+    ]
+}
