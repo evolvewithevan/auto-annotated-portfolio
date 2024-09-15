@@ -78,7 +78,7 @@ sections:
         label: See all projects
         altText: See all projects
         url: /projects
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
@@ -99,7 +99,7 @@ sections:
         width: full
         padding:
           - pt-24
-          - pb-24
+          - pb-10
           - pl-6
           - pr-6
         justifyContent: center
@@ -119,7 +119,7 @@ sections:
     images:
       - type: ImageBlock
         url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726438851/lel10_av8kop.png
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726440353/Untitleduh4_csb1fb.png
         altText: Image one
         caption: Image one caption
         elementId: ''
@@ -136,7 +136,7 @@ sections:
         width: full
         padding:
           - pt-12
-          - pb-12
+          - pb-0
           - pl-0
           - pr-0
         justifyContent: center
@@ -144,19 +144,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-4
-          - pb-4
-          - pl-24
-          - pr-24
-        justifyContent: center
-        borderWidth: 1
   - type: MediaGallerySection
     title: Portfolio
     subtitle: ''
