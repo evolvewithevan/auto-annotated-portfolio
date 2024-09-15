@@ -113,6 +113,19 @@ sections:
       actions:
         justifyContent: center
     title: Recent Projects
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-4
+          - pb-4
+          - pl-24
+          - pr-24
+        justifyContent: center
+        borderWidth: 1
   - type: MediaGallerySection
     title: ''
     subtitle: ''
@@ -144,19 +157,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-4
-          - pb-4
-          - pl-24
-          - pr-24
-        justifyContent: center
-        borderWidth: 1
   - type: MediaGallerySection
     title: Portfolio
     subtitle: ''
