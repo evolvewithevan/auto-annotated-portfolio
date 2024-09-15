@@ -87,7 +87,7 @@ sections:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-three.md
     colors: colors-f
-    variant: variant-b
+    variant: variant-a
     elementId: ''
     showDate: false
     showDescription: true
