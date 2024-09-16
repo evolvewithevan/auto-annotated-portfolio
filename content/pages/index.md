@@ -119,7 +119,7 @@ sections:
     images:
       - type: ImageBlock
         url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726440353/Untitleduh4_csb1fb.png
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726501046/Untitleduh2.4_cjsjqg.png
         altText: Image one
         caption: Image one caption
         elementId: ''
@@ -259,4 +259,35 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: >-
+          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1726501046/Untitleduh4.1_fltgvv.png
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-f
+    spacing: 0
+    columns: 1
+    aspectRatio: auto
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-0
+          - pb-0
+          - pl-0
+          - pr-0
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
 ---
