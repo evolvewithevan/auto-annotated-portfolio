@@ -1,0 +1,24 @@
+{
+    "model": "ImageBlock",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Longpic",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Custom"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "url": "https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726501046/Untitleduh2.4_cjsjqg.png",
+                "altText": "Image one",
+                "caption": "Image one caption",
+                "elementId": ""
+            },
+            "thumbnail": "images/image-block-longpic-d805.png"
+        }
+    ]
+}
