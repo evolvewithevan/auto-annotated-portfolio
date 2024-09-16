@@ -6,7 +6,7 @@ date: '2024-09-14'
 client: Exploring Hex
 description: >-
   "Crash it so hard the fragments won't even remember they existed." - Breaking
-  things by the bit
+  things by the bit.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image2.jpg
