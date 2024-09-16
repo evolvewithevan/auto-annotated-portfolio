@@ -119,7 +119,7 @@ sections:
     images:
       - type: ImageBlock
         url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726440353/Untitleduh4_csb1fb.png
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726501046/Untitleduh2.4_cjsjqg.png
         altText: Image one
         caption: Image one caption
         elementId: ''
