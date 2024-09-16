@@ -271,7 +271,7 @@ sections:
     colors: colors-c
     spacing: 0
     columns: 1
-    aspectRatio: '1:1'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     elementId: ''
