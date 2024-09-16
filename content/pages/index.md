@@ -168,6 +168,12 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524629/jrgn5sgwr8d33lyzeazu.png
+        altText: Image six
+        caption: Image six caption
+        elementId: ''
+      - type: ImageBlock
+        url: >-
           https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524629/yuhxfnjzsizj9jomczyc.png
         altText: Image two
         caption: Image two caption
@@ -183,12 +189,6 @@ sections:
           https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723516924/HBTherapy-small_mejlmc.jpg
         altText: Image five
         caption: Image five caption
-        elementId: ''
-      - type: ImageBlock
-        url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524629/jrgn5sgwr8d33lyzeazu.png
-        altText: Image six
-        caption: Image six caption
         elementId: ''
       - type: ImageBlock
         url: >-
