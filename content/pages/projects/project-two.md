@@ -9,7 +9,8 @@ description: >-
   things by the bit.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image2.jpg
+  url: >-
+    http://res.cloudinary.com/dd4d1ezxa/image/upload/v1726529348/placeholder-red-1848577604_hjwscu.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
