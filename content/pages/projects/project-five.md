@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Fish Gallery
 date: '2024-09-15'
 client: Gone Fishin'
-description: ''
+description: A Simple example of one of the unusual ways I implement my work
 featuredImage:
   type: ImageBlock
   url: >-
