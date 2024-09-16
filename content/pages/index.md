@@ -303,13 +303,7 @@ sections:
       "When the medium fails conspicuously, and especially if it fails in new
       ways, the listener believes something is happening beyond its limits."
     subtitle: Brian Eno
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: "It’s the sound of failure: so much of modern art is the sound of things \ngoing out of control, of a medium pushing to its limits and breaking \napart. The distorted guitar is the sound of something too loud for the \nmedium supposed to carry it. The blues singer with the cracked voice is \nthe sound of an emotional cry too powerful for the throat that releases \nit. The excitement of grainy film, of bleached-out black and white, is \nthe excitement of witnessing events too momentous for the medium \nassigned to record them.\_\n"
     elementId: ''
     styles:
       self:
