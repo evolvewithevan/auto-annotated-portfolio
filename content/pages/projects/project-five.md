@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Fishy Fishy
+title: Fish Gallery
 date: '2024-09-15'
 client: Gone Fishin'
 description: ''
