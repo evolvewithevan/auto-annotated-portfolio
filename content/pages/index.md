@@ -302,9 +302,7 @@ sections:
     title: >-
       "When the medium fails conspicuously, and especially if it fails in new
       ways, the listener believes something is happening beyond its limits."
-    subtitle: >-
-      "When the medium fails conspicuously, and especially if it fails in new
-      ways, the listener believes something is happening beyond its limits."
+    subtitle: Brian Eno
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
