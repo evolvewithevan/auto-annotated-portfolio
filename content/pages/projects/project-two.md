@@ -4,7 +4,7 @@ title: Hexadecimal Visuals
 colors: colors-a
 date: '2024-09-14'
 client: Exploring Hex
-description: '"Crash it so hard the fragments won''t even remember they existed."'
+description: '"Crash it so hard the fragments won''t even remember they existed." - Demolish'
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image2.jpg
