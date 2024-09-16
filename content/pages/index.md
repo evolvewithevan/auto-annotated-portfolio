@@ -197,7 +197,8 @@ sections:
         caption: Image eight caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Screenshot_20240816_211542.png
+        url: >-
+          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1726451939/gimpblenny26_gahcni.png
         altText: Image one
         caption: Image one caption
         elementId: ''
