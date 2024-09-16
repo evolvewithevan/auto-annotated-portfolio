@@ -30,7 +30,7 @@ backgroundImage:
 ---
 Often times I will be experimenting with new assets, different mediums, and new tools and end up turning what was just to be a simple test into a full-fledged, vinyl print quality artwork. These projects are often the most fun for me as they allow me to apply my skills to in a novel way that serves to stoke deep inspiration. This project is no exception to that. Starting with a new texture scanning setup to capture physical textures in over 5k resolution, I ended up turning pictures of stones into HDRI's for an experimental deep-sea render featuring a holographic-like, dreamy environment.
 
-![](https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726453685/Screenshot_20240915_192706_jaeh96.png)<sub>Example of one of the 5K scans taken with the new scanning setup</sub>
+![](https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726453685/Screenshot_20240915_192706_jaeh96.png)<sub>Example of one of the 5K scans taken with the new scanning setup.</sub>
 
 ![](https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726452573/Screenshot_20240915_190753_z75nev.png)<sub>Making the HDRI using several layers of textures.</sub>
 
