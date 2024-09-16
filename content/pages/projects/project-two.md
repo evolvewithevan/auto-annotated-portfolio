@@ -5,8 +5,8 @@ colors: colors-a
 date: '2024-09-14'
 client: Exploring Hex
 description: >-
-  One of my favorite parts about the art that I make is the opportunity they
-  afford me to search 
+  Trying out new tools fills my heart with joy. One of my newest tools takes
+  things to a whole different level.
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image2.jpg
