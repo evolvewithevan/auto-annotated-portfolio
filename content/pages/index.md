@@ -264,7 +264,8 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: >-
+          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1726501046/Untitleduh4.1_fltgvv.png
         altText: Image four
         caption: Image four caption
         elementId: ''
