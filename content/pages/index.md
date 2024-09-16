@@ -261,7 +261,7 @@ sections:
         justifyContent: flex-start
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/gallery-4.jpg
