@@ -232,7 +232,7 @@ sections:
         style: primary
         elementId: ''
     colors: colors-a
-    backgroundSize: inset
+    backgroundSize: full
     elementId: ''
     styles:
       self:
