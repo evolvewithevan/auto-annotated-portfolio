@@ -85,7 +85,6 @@ sections:
     projects:
       - content/pages/projects/project-two.md
       - content/pages/projects/project-one.md
-      - content/pages/projects/project-three.md
       - content/pages/projects/project-five.md
     colors: colors-f
     variant: variant-b
