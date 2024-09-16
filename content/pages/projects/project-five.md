@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Fishy Fishy
 date: '2024-09-15'
-client: Awesome client
+client: Gone Fishin'
 description: ''
 featuredImage:
   type: ImageBlock
