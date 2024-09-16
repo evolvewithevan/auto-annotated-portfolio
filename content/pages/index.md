@@ -270,7 +270,7 @@ sections:
         elementId: ''
     colors: colors-c
     spacing: 0
-    columns: 2
+    columns: 1
     aspectRatio: '1:1'
     showCaption: false
     enableHover: false
