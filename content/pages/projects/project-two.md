@@ -4,9 +4,7 @@ title: Hexadecimal Visuals
 colors: colors-a
 date: '2024-09-14'
 client: Exploring Hex
-description: >-
-  Trying out new tools fills my heart with joy. One of my newest tools takes
-  things to a whole different level.
+description: 'Breaking things '
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image2.jpg
