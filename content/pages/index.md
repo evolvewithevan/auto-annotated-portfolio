@@ -174,12 +174,6 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524629/yuhxfnjzsizj9jomczyc.png
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: >-
           https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523462/pdhluttm6w6rbvumw9hy.png
         altText: Image four
         caption: Image four caption
@@ -201,6 +195,12 @@ sections:
           http://res.cloudinary.com/dd4d1ezxa/image/upload/v1726451939/gimpblenny26_gahcni.png
         altText: Image one
         caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: >-
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524629/yuhxfnjzsizj9jomczyc.png
+        altText: Image two
+        caption: Image two caption
         elementId: ''
     colors: colors-a
     spacing: 12
