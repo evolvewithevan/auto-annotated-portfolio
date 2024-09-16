@@ -22,7 +22,8 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: >-
+    http://res.cloudinary.com/dd4d1ezxa/image/upload/v1726454587/FORSITE2_d8t0lt.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
