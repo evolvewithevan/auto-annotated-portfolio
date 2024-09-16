@@ -297,7 +297,7 @@ sections:
       subtitle:
         textAlign: center
   - type: TextSection
-    colors: colors-b
+    colors: colors-f
     variant: variant-a
     title: >-
       "When the medium fails conspicuously, and especially if it fails in new
