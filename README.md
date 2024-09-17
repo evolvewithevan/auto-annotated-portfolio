@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4e7fe408-c6a4-4467-acbe-12ddd8176149/deploy-status)](https://app.netlify.com/sites/evolvewithevan/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4e7fe408-c6a4-4467-acbe-12ddd8176149/deploy-status)](https://app.netlify.com/sites/evolvewithevan/deploys)  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 # 📁 My Portfolio
 
