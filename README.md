@@ -1,53 +1,65 @@
-# Netlify Developer Portfolio Starter (auto-annotated)
+# 📁 My Portfolio
 
-![Developer Portfolio](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
+Welcome to my personal portfolio! This repository showcases my projects, skills, and experiences as a **Multimedia Artist** specializing in glitch aesthetics and album cover designs.
 
-This is a full-fledged portfolio website built with Next.js, Tailwind CSS, [visual editor](https://docs.netlify.com/visual-editor/overview/) and the [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
+## 🌟 Table of Contents
 
-The codebase showcases **how to apply annotations at scale**, meaning: how to make much of your components [highlightable in the visual editor](https://docs.netlify.com/visual-editor/visual-editing/inline-editor/) through data attributes without manually adding code throughout the codebase.
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Experience](#experience)
+- [Education](#education)
+- [Contact](#contact)
 
-**This is achieved by:**
+## 👨‍🎨 About Me
 
-1. Adding an annotation property to the content objects at they're loaded (see `src/utils/content.ts`)
-1. When rendering the page, each content sub-object is dynamically matched to the appropriate component. At this point, wrap each component with an annotation, based on the abovementioned content property. See `src/components/components-registry.tsx`.
+Hello! I'm Evan, a passionate Visual Artist specializing in **unique aesthetics**, **album covers**, and **visual designs** for music creators. I enjoy pushing the boundaries of digital art, creating visually-striking projects, and exploring new artistic techniques in  **graphic design** and **3D modeling**. 
 
-**⚡ Demo:** [auto-annotated-portfolio.netlify.app](https://auto-annotated-portfolio.netlify.app)
+## 🚀 The Project
 
-## Deploying to Netlify
+To deliver high-res print quality visuals that are able to meet musicians visions 
 
-If you click "Deploy to Netlify" button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
+### [Cover Designs](#)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/auto-annotated-portfolio)
+- **Description:** Album cover projects for independent music creators, focusing on unique aesthetics.
+- **Technologies:** Custom Programs, Darkroom, Davinci Resolve, Inkscape, GIMP, and a few more smaller tools. 
+- **Highlights:**
+  - Developing signature aesthetics for digital and physical album covers.
+  - Collaborated with music creators to tailor visuals to their sound.
+  - Incorporated innovative datamoshing techniques to achieve a distinct visual impact.
 
-## Getting Started
+## 🛠 Skills
 
-The typical development process is to begin by working locally. Clone this repository, then run `npm install` in its root directory.
+- **Art Software:** GIMP, Blender, Inkscape, DaVinci Resolve
+- **Aesthetics:** Glitch Art, Digital Manipulation
+- **Tools:** Datamoshing Tools, Custom Art Tools
+- **Other Skills:** Branding, Storytelling, Album Cover Design
 
-Run the Next.js development server:
+## 💼 Experience
 
-```txt
-cd auto-annotated-portfolio
-npm run dev
-```
+- **Freelance Artist**, **Self-Employed** *(2022 - Present)*
+  - Created custom visuals for musicians and creators.
+  - Built a portfolio of glitch art, album covers, and promotional material.
+  - Focused on mastering digital art techniques and storytelling through visuals.
 
-Install the [Netlify visual editor CLI](https://www.npmjs.com/package/@stackbit/cli). Then open a new terminal window in the same project directory and run the Netlify visual editor dev server:
+- **Art Hobbyist**, **Personal Projects** *(2021 - 2022)*
+  - Produced over 40 glitch art pieces, exploring new styles and techniques.
+  - Developed a personal aesthetic, focusing on glitchy, dystopian visuals.
 
-```txt
-npm install -g @stackbit/cli
-stackbit dev
-```
+## 🎓 Education
 
-This outputs your own Netlify visual editor URL. Open this, register or sign in, and you will be directed to Netlify's visual editor for your new project.
+- **Self-Taught Digital Artist**, **Online Resources & Personal Study** *(Ongoing)*
+  - Continuously learning new techniques in graphic design and 3D modeling.
+  - Regularly participating in art communities and staying updated on industry trends.
 
-![Next.js Dev + Netlify visual editor dev](https://assets.stackbit.com/docs/next-dev-stackbit-dev.png)
+## 📫 Contact
 
-## Next Steps
+Feel free to reach out!
 
-Here are a few suggestions on what to do next if you're new to Netlify visual editor:
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **ArtStation:** [Your ArtStation Profile](https://www.artstation.com/yourprofile)
+- **Instagram:** [Your Instagram Profile](https://www.instagram.com/yourprofile)
 
-- Learn [how Netlify visual editor works](https://docs.netlify.com/visual-editor/overview/)
-- Check [Netlify visual editor reference documentation](https://visual-editor-reference.netlify.com/)
+---
 
-## Support
-
-If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
+*Thank you for visiting my portfolio!*
