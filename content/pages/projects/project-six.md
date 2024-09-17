@@ -8,7 +8,8 @@ description: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726537436/20240519173818_IMG_2023_j7mwep.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
