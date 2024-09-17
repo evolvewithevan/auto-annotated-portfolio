@@ -24,7 +24,8 @@ addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: >-
+    http://res.cloudinary.com/dd4d1ezxa/image/upload/v1726539935/DarkieRemix4_izhazo.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
