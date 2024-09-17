@@ -3,7 +3,9 @@ type: ProjectLayout
 title: Night on the town
 date: '2024-09-16'
 client: Awesome client
-description: 'Visit your local, well, anything. '
+description: >-
+  Visit your local, well, anything. Even if you are somewhere new, Visit their
+  local anything !
 featuredImage:
   type: ImageBlock
   url: >-
