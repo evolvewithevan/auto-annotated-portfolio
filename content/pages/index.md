@@ -83,7 +83,7 @@ sections:
         iconPosition: right
         elementId: ''
     projects:
-      - content/pages/projects/project-four.md
+      - content/pages/projects/project-six.md
       - content/pages/projects/project-one.md
       - content/pages/projects/project-five.md
     colors: colors-f
