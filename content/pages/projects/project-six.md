@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Night on the town
 date: '2024-09-16'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'Visit your local, well, anything. '
 featuredImage:
   type: ImageBlock
   url: >-
