@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4e7fe408-c6a4-4467-acbe-12ddd8176149/deploy-status)](https://app.netlify.com/sites/evolvewithevan/deploys)
+
 # 📁 My Portfolio
 
 Welcome to my personal portfolio! This repository showcases my projects, skills, and experiences as a **Multimedia Artist** specializing in glitch aesthetics and album cover designs.
