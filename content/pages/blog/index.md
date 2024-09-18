@@ -33,8 +33,8 @@ styles:
 topSections:
   - type: QuoteSection
     quote: >
-      Seriously this page isnt supposed to be linked anywhere, How did you end
-      up on it?
+      This is where I post whatever I feel like posting ! Enjoy perusing my
+      various, unprofessional, ramblings :D
     name: Evan
     title: Freelance Visual Artist
     colors: colors-f
