@@ -187,7 +187,7 @@ sections:
       - type: Label
         label: 3D Animation
       - type: Label
-        label: Inkscape
+        label: SVG Design
       - type: Label
         label: GIMP
       - type: Label
