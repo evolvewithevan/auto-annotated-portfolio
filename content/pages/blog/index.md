@@ -27,7 +27,7 @@ postFeed:
         - pr-4
         - pb-12
   title: 'Have fun :3'
-  subtitle: subtitle
+  subtitle: 'subtitle '
 styles:
   title:
     textAlign: left
