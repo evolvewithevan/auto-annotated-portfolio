@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Not even clickbait lol just decent advice
+title: How to be happy lol
 date: '2024-09-18'
 excerpt: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
