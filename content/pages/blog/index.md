@@ -26,6 +26,7 @@ postFeed:
         - pl-4
         - pr-4
         - pb-12
+  title: ' This is where I post whatever I feel like posting !'
 styles:
   title:
     textAlign: left
