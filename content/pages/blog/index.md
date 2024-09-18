@@ -26,7 +26,7 @@ postFeed:
         - pl-4
         - pr-4
         - pb-12
-  title: Test1
+  title: 'Have fun :3'
   subtitle: subtitle
 styles:
   title:
