@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: My Resources! This is where I post whatever I feel like posting !
+title: My Resources!
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
