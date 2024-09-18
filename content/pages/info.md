@@ -189,7 +189,7 @@ sections:
       - type: Label
         label: SVG Design
       - type: Label
-        label: GIMP
+        label: Image Editing
       - type: Label
         label: Python 2&3
       - type: Label
