@@ -191,7 +191,7 @@ sections:
       - type: Label
         label: Image Editing
       - type: Label
-        label: Python 2&3
+        label: Coding
       - type: Label
         label: Photography
       - type: Label
