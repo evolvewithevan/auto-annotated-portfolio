@@ -194,8 +194,6 @@ sections:
         label: Coding
       - type: Label
         label: Photography
-      - type: Label
-        label: Painting
   - type: DividerSection
     styles:
       self:
