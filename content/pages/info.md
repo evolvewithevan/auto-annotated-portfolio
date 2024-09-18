@@ -183,19 +183,17 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Davinci Resolve
+        label: Image Editing
       - type: Label
-        label: Blender
+        label: Video Editing
       - type: Label
-        label: Inkscape
+        label: 3D Animation
       - type: Label
-        label: GIMP
-      - type: Label
-        label: Python 2&3
+        label: SVG Design
       - type: Label
         label: Photography
       - type: Label
-        label: Painting
+        label: Coding
   - type: DividerSection
     styles:
       self:
