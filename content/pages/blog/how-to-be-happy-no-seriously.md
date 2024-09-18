@@ -28,3 +28,11 @@ backgroundImage:
   opacity: 100
 author: content/data/team/doris-soto.json
 ---
+Okay it might be clickbaity but a few things that help me a ton are as follows
+
+Eating Nutritional Yeast regularly
+Trying to eat atleast 40g protein per meal
+Avoiding sugary foods, especially overly processed ones
+Having clearly defined pathways to goals you have 
+Having goals aligned with activities that inspire you
+Engaging in activities that inspire you 
