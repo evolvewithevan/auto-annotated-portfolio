@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: 'Blog - This page isnt meant to be found, But you found it! Thats pretty cool'
+title: My Resources! This is where I post whatever I feel like posting !
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
