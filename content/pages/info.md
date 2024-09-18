@@ -183,7 +183,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Davinci Resolve
+        label: Video Editing
       - type: Label
         label: Blender
       - type: Label
