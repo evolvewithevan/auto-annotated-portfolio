@@ -185,7 +185,7 @@ sections:
       - type: Label
         label: Video Editing
       - type: Label
-        label: Blender
+        label: 3D Animation
       - type: Label
         label: Inkscape
       - type: Label
