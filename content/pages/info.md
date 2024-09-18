@@ -183,13 +183,13 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
+        label: Image Editing
+      - type: Label
         label: Video Editing
       - type: Label
         label: 3D Animation
       - type: Label
         label: SVG Design
-      - type: Label
-        label: Image Editing
       - type: Label
         label: Coding
       - type: Label
