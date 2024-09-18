@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: 'Blog - This page isnt meant to be found, But you found it! Thats pretty cool'
+title: My Resources!
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -26,14 +26,16 @@ postFeed:
         - pl-4
         - pr-4
         - pb-12
+  title: Test1
+  subtitle: subtitle
 styles:
   title:
     textAlign: left
 topSections:
   - type: QuoteSection
     quote: >
-      Seriously this page isnt supposed to be linked anywhere, How did you end
-      up on it?
+      This is where I post whatever I feel like posting ! Enjoy perusing my
+      various, unprofessional, ramblings :D
     name: Evan
     title: Freelance Visual Artist
     colors: colors-f
