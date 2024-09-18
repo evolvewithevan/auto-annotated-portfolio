@@ -191,9 +191,9 @@ sections:
       - type: Label
         label: SVG Design
       - type: Label
-        label: Coding
-      - type: Label
         label: Photography
+      - type: Label
+        label: Coding
   - type: DividerSection
     styles:
       self:
