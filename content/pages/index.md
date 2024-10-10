@@ -181,48 +181,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: FeaturedProjectsSection
-    subtitle: ''
-    actions:
-      - type: Link
-        label: See all projects
-        altText: See all projects
-        url: /projects
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-    projects:
-      - content/pages/projects/project-six.md
-      - content/pages/projects/project-one.md
-      - content/pages/projects/project-five.md
-    colors: colors-f
-    variant: variant-b
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-24
-          - pb-10
-          - pl-6
-          - pr-6
-        justifyContent: center
-        margin:
-          - ml-3
-          - mr-3
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    title: Recent Projects
   - type: CtaSection
     title: ''
     text: |2
@@ -265,6 +223,48 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: FeaturedProjectsSection
+    subtitle: ''
+    actions:
+      - type: Link
+        label: See all projects
+        altText: See all projects
+        url: /projects
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    projects:
+      - content/pages/projects/project-six.md
+      - content/pages/projects/project-one.md
+      - content/pages/projects/project-five.md
+    colors: colors-f
+    variant: variant-b
+    elementId: ''
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-24
+          - pb-10
+          - pl-6
+          - pr-6
+        justifyContent: center
+        margin:
+          - ml-3
+          - mr-3
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
+    title: Recent Projects
   - type: MediaGallerySection
     title: ''
     subtitle: ''
