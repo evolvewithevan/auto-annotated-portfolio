@@ -138,7 +138,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523503/q4qjdtef1jsg5z9jkxhv.jpg
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1728526829/_MG_0840_enrkio.webp
         altText: Image eight
         caption: Image eight caption
         elementId: ''
