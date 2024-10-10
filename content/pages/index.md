@@ -223,6 +223,37 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: >-
+          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1726501046/Untitleduh4.1_fltgvv.png
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-f
+    spacing: 0
+    columns: 1
+    aspectRatio: auto
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-0
+          - pb-0
+          - pl-0
+          - pr-0
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - type: FeaturedProjectsSection
     subtitle: ''
     actions:
@@ -265,37 +296,6 @@ sections:
       actions:
         justifyContent: center
     title: Recent Projects
-  - type: MediaGallerySection
-    title: ''
-    subtitle: ''
-    images:
-      - type: ImageBlock
-        url: >-
-          http://res.cloudinary.com/dd4d1ezxa/image/upload/v1726501046/Untitleduh4.1_fltgvv.png
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
-    colors: colors-f
-    spacing: 0
-    columns: 1
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-0
-          - pb-0
-          - pl-0
-          - pr-0
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: TextSection
     colors: colors-f
     variant: variant-a
