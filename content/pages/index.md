@@ -71,48 +71,6 @@ sections:
           - pr-24
         justifyContent: center
         borderWidth: 1
-  - type: FeaturedProjectsSection
-    subtitle: ''
-    actions:
-      - type: Link
-        label: See all projects
-        altText: See all projects
-        url: /projects
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-    projects:
-      - content/pages/projects/project-six.md
-      - content/pages/projects/project-one.md
-      - content/pages/projects/project-five.md
-    colors: colors-f
-    variant: variant-b
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-24
-          - pb-10
-          - pl-6
-          - pr-6
-        justifyContent: center
-        margin:
-          - ml-3
-          - mr-3
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
-    title: Recent Projects
   - type: MediaGallerySection
     title: ''
     subtitle: ''
@@ -156,6 +114,18 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524629/jrgn5sgwr8d33lyzeazu.png
+        altText: Image six
+        caption: Image six caption
+        elementId: ''
+      - type: ImageBlock
+        url: >-
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1728528113/IMG_0607.1_vjhfve.webp
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+      - type: ImageBlock
+        url: >-
           https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524728/qtgos3x9agnpkug6uh74.png
         altText: Image seven
         caption: Image seven caption
@@ -168,19 +138,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524629/jrgn5sgwr8d33lyzeazu.png
-        altText: Image six
-        caption: Image six caption
-        elementId: ''
-      - type: ImageBlock
-        url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523462/pdhluttm6w6rbvumw9hy.png
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
-      - type: ImageBlock
-        url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523503/q4qjdtef1jsg5z9jkxhv.jpg
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1728526829/_MG_0840_enrkio.webp
         altText: Image eight
         caption: Image eight caption
         elementId: ''
@@ -192,15 +150,15 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723524629/yuhxfnjzsizj9jomczyc.png
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: >-
           https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723516924/HBTherapy-small_mejlmc.jpg
         altText: Image five
         caption: Image five caption
+        elementId: ''
+      - type: ImageBlock
+        url: >-
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1728528275/brigga_r4dgbm.webp
+        altText: Image two
+        caption: Image two caption
         elementId: ''
     colors: colors-a
     spacing: 12
