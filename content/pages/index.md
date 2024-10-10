@@ -150,15 +150,15 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1728528275/brigga_r4dgbm.webp
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: >-
           https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723516924/HBTherapy-small_mejlmc.jpg
         altText: Image five
         caption: Image five caption
+        elementId: ''
+      - type: ImageBlock
+        url: >-
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1728528275/brigga_r4dgbm.webp
+        altText: Image two
+        caption: Image two caption
         elementId: ''
     colors: colors-a
     spacing: 12
