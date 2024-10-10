@@ -126,15 +126,15 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723525323/tjnjxapbrr2k8qmoknqs.png
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-      - type: ImageBlock
-        url: >-
           https://res.cloudinary.com/dd4d1ezxa/image/upload/v1728528113/IMG_0607.1_vjhfve.webp
         altText: Image four
         caption: Image four caption
+        elementId: ''
+      - type: ImageBlock
+        url: >-
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723525323/tjnjxapbrr2k8qmoknqs.png
+        altText: Image three
+        caption: Image three caption
         elementId: ''
       - type: ImageBlock
         url: >-
