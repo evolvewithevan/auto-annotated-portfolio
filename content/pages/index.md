@@ -132,7 +132,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1723523462/pdhluttm6w6rbvumw9hy.png
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1728528113/IMG_0607.1_vjhfve.webp
         altText: Image four
         caption: Image four caption
         elementId: ''
