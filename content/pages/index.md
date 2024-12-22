@@ -228,8 +228,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726537436/20240519173818_IMG_j7mwep.jpg
+        url: /images/bg2.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
