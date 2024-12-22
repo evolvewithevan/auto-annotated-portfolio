@@ -187,7 +187,7 @@ sections:
          
     actions:
       - type: Button
-        label: Order a commision ⌁
+        label: Lets make something ! ⌁
         altText: ''
         url: 'https://tally.so/r/m6xgkY'
         showIcon: true
