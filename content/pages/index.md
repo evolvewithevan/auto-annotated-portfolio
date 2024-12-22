@@ -242,11 +242,6 @@ sections:
         altText: Image three
         caption: Image three caption
         elementId: ''
-      - type: ImageBlock
-        url: /images/IMG_9548.jpg
-        altText: Image one
-        caption: Image one caption
-        elementId: ''
     colors: colors-a
     spacing: 16
     columns: 3
