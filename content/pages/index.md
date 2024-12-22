@@ -253,7 +253,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: Test
             altText: ''
             url: /
             showIcon: true
