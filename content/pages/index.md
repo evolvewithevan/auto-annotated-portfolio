@@ -235,7 +235,7 @@ sections:
           - pb-3
           - pl-0
           - pr-0
-        justifyContent: center
+        justifyContent: flex-end
       title:
         textAlign: left
       subtitle:
