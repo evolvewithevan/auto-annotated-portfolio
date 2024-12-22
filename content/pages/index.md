@@ -220,7 +220,7 @@ sections:
         justifyContent: flex-end
         flexDirection: row
         borderColor: border-dark
-        borderRadius: xx-small
+        borderRadius: none
         margin:
           - ml-0
           - mt-0
