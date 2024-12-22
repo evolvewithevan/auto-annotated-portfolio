@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Congratulations!
-    subtitle: The section subtitle
+    subtitle: 'You''ve caught me with my pants down :D'
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
