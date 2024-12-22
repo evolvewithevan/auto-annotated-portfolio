@@ -18,7 +18,7 @@ sections:
 
     actions:
       - type: Button
-        label: Order a commision
+        label: ''
         altText: Order a commision button
         url: 'https://tally.so/r/m6xgkY'
         showIcon: true
