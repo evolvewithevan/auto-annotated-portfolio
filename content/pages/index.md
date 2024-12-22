@@ -238,7 +238,7 @@ sections:
         justifyContent: center
         borderRadius: none
         borderWidth: 8
-        borderStyle: double
+        borderStyle: dashed
       title:
         textAlign: left
       subtitle:
