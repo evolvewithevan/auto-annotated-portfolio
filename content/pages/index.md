@@ -222,7 +222,7 @@ sections:
             textAlign: left
     actions: []
     colors: colors-a
-    columns: 1
+    columns: 2
     spacingX: 0
     spacingY: 0
     elementId: ''
