@@ -238,7 +238,7 @@ sections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/bg2.jpg
+        url: /images/Number1 (3).png
         altText: Image three
         caption: Image three caption
         elementId: ''
