@@ -233,7 +233,7 @@ sections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/bg2.jpg
+        url: /images/Untitled3.webp
         altText: Image two
         caption: Image two caption
         elementId: ''
