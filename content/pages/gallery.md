@@ -39,7 +39,7 @@ sections:
     colors: colors-f
     spacing: 0
     columns: 1
-    aspectRatio: '1:1'
+    aspectRatio: ''
     showCaption: false
     enableHover: false
     elementId: ''
