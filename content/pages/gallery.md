@@ -28,7 +28,7 @@ sections:
       text:
         textAlign: left
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
