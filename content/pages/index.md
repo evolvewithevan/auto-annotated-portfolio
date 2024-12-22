@@ -223,7 +223,7 @@ sections:
     actions: []
     colors: colors-a
     columns: 2
-    spacingX: 16
+    spacingX: 0
     spacingY: 16
     elementId: ''
     styles:
