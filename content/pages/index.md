@@ -238,7 +238,7 @@ sections:
     title: Value propositions
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: ''
         subtitle: ''
         text: ''
         actions:
