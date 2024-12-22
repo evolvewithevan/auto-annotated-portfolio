@@ -236,6 +236,7 @@ sections:
           - pl-0
           - pr-0
         justifyContent: center
+        borderRadius: none
       title:
         textAlign: left
       subtitle:
