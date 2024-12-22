@@ -187,7 +187,7 @@ sections:
          
     actions:
       - type: Button
-        label: Order a commision ⌁
+        label: Lets make something ! ⌁
         altText: ''
         url: 'https://tally.so/r/m6xgkY'
         showIcon: true
@@ -201,7 +201,7 @@ sections:
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         padding:
           - pt-2
           - pb-4
@@ -223,6 +223,47 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/bg2.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/bg2.jpg
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/bg2.jpg
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+    colors: colors-a
+    spacing: 16
+    columns: 3
+    aspectRatio: '1:1'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-12
+          - pb-12
+          - pl-2
+          - pr-2
+        justifyContent: center
+        borderColor: border-dark
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - type: MediaGallerySection
     title: ''
     subtitle: ''
