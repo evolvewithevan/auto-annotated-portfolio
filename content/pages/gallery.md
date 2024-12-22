@@ -7,9 +7,9 @@ sections:
     variant: variant-a
     title: Congratulations!
     subtitle: 'You''ve caught me with my pants down :D'
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: >
+      I'm still editing this page so try not to mind stock images and any other
+      funkiness haha, Thanks for checking my stuff out!
     elementId: ''
     styles:
       self:
