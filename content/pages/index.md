@@ -237,7 +237,7 @@ sections:
           - pr-0
         justifyContent: center
         borderRadius: none
-        borderWidth: 1
+        borderWidth: 3
         borderStyle: dashed
       title:
         textAlign: left
