@@ -73,7 +73,7 @@ sections:
       subtitle:
         textAlign: center
 addTitleSuffix: true
-colors: colors-b
+colors: colors-a
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
