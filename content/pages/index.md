@@ -192,7 +192,7 @@ sections:
           - type: Button
             label: View Gallery
             altText: ''
-            url: /Gallery
+            url: /gallery
             showIcon: true
             icon: arrowRight
             iconPosition: left
