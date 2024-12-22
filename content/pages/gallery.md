@@ -28,6 +28,36 @@ sections:
       text:
         textAlign: left
   - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/Untitleduh4.png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-f
+    spacing: 0
+    columns: 1
+    aspectRatio: auto
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-0
+          - pb-0
+          - pl-0
+          - pr-0
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
     images:
