@@ -261,7 +261,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Lets work Together !
+            label: Lets make something !
             altText: ''
             url: /
             showIcon: true
