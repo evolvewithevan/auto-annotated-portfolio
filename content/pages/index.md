@@ -192,7 +192,7 @@ sections:
         url: 'https://tally.so/r/m6xgkY'
         showIcon: true
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
     colors: colors-a
