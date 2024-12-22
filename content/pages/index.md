@@ -243,8 +243,7 @@ sections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726501046/Untitleduh2.4_cjsjqg.png
+        url: /images/favicon.svg
         altText: Image one
         caption: Image one caption
         elementId: ''
