@@ -246,7 +246,7 @@ sections:
             label: View Gallery
             altText: ''
             url: /
-            showIcon: true
+            showIcon: false
             icon: arrowRight
             iconPosition: left
             style: primary
