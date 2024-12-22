@@ -32,7 +32,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Untitleduh4.png
         altText: Image one
         caption: Image one caption
         elementId: ''
