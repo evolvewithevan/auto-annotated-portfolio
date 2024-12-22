@@ -243,7 +243,7 @@ sections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/favicon.svg
+        url: /images/IMG_9548.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
