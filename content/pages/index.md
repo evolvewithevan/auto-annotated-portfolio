@@ -181,45 +181,67 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: CtaSection
+  - type: FeaturedItemsSection
     title: ''
-    text: |2
-         
-    actions:
-      - type: Button
-        label: Lets make something ! ⌁
-        altText: ''
-        url: 'https://tally.so/r/m6xgkY'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    items:
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        actions:
+          - type: Button
+            label: View Gallery
+            altText: ''
+            url: /Gallery
+            showIcon: true
+            icon: arrowRight
+            iconPosition: left
+            style: primary
+            elementId: ''
         elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        actions:
+          - type: Button
+            label: Lets make something !
+            altText: ''
+            url: 'https://tally.so/r/m6xgkY'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
     colors: colors-a
-    backgroundSize: full
+    columns: 2
+    spacingX: 0
+    spacingY: 0
     elementId: ''
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
-          - pt-2
-          - pb-4
-          - pl-2
-          - pr-2
-        alignItems: center
-        justifyContent: flex-end
-        flexDirection: col
-        borderColor: border-dark
-        borderRadius: xx-small
-        margin:
-          - ml-0
-          - mt-0
-          - mb-0
-          - mr-0
+          - pt-3
+          - pb-3
+          - pl-0
+          - pr-0
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
       title:
         textAlign: left
-      text:
+      subtitle:
         textAlign: left
       actions:
         justifyContent: flex-start
