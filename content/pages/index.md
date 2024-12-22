@@ -181,59 +181,6 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
-  - type: CtaSection
-    title: ''
-    text: |2
-         
-    actions:
-      - type: Button
-        label: Lets make something ! ⌁
-        altText: ''
-        url: 'https://tally.so/r/m6xgkY'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: /Gallery
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-a
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-2
-          - pb-4
-          - pl-2
-          - pr-2
-        alignItems: center
-        justifyContent: flex-end
-        flexDirection: col
-        borderColor: border-dark
-        borderRadius: none
-        margin:
-          - ml-0
-          - mt-0
-          - mb-0
-          - mr-0
-        borderWidth: 6
-        borderStyle: dashed
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: FeaturedItemsSection
     title: ''
     items:
