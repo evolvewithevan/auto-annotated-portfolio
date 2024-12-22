@@ -67,7 +67,7 @@ sections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/20240519173818_IMG_2023.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
