@@ -234,7 +234,7 @@ sections:
           - pt-3
           - pb-3
           - pl-4
-          - pr-4
+          - pr-0
         justifyContent: center
       title:
         textAlign: left
