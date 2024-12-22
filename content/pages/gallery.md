@@ -72,7 +72,7 @@ sections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/_MG_0879.webp
         altText: Image three
         caption: Image three caption
         elementId: ''
