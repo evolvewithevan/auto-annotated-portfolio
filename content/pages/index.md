@@ -238,7 +238,7 @@ sections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/_MG_0833.webp
+        url: /images/_MG_0879.webp
         altText: Image three
         caption: Image three caption
         elementId: ''
