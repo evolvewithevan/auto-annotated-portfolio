@@ -261,7 +261,7 @@ sections:
         padding:
           - pt-12
           - pb-12
-          - pl-0
+          - pl-2
           - pr-4
         justifyContent: center
         borderColor: border-dark
