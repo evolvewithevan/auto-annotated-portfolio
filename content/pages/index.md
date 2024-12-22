@@ -227,6 +227,7 @@ sections:
           - mb-0
           - mr-0
         borderWidth: 6
+        borderStyle: dashed
       title:
         textAlign: left
       text:
