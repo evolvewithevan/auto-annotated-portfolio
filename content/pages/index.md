@@ -237,7 +237,7 @@ sections:
           - pr-0
         justifyContent: center
         borderRadius: none
-        borderWidth: 5
+        borderWidth: 8
       title:
         textAlign: left
       subtitle:
