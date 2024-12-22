@@ -243,7 +243,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Test
+            label: View Gallery
             altText: ''
             url: /
             showIcon: true
