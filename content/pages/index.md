@@ -228,7 +228,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/bg2.jpg
+        url: /images/_MG_0879.webp
         altText: Image one
         caption: Image one caption
         elementId: ''
@@ -238,7 +238,7 @@ sections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/bg2.jpg
+        url: /images/20240519173818_IMG_2023.jpg
         altText: Image three
         caption: Image three caption
         elementId: ''
