@@ -224,7 +224,7 @@ sections:
     colors: colors-a
     columns: 2
     spacingX: 0
-    spacingY: 16
+    spacingY: 0
     elementId: ''
     styles:
       self:
