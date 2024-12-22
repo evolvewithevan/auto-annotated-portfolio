@@ -218,7 +218,7 @@ sections:
           - pr-2
         alignItems: center
         justifyContent: flex-end
-        flexDirection: col
+        flexDirection: row
         borderColor: border-dark
         borderRadius: xx-small
         margin:
