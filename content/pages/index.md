@@ -201,7 +201,7 @@ sections:
     styles:
       self:
         height: auto
-        width: narrow
+        width: full
         padding:
           - pt-2
           - pb-4
