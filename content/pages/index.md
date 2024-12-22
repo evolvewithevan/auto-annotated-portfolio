@@ -242,6 +242,12 @@ sections:
         altText: Image three
         caption: Image three caption
         elementId: ''
+      - type: ImageBlock
+        url: >-
+          https://res.cloudinary.com/dd4d1ezxa/image/upload/v1726501046/Untitleduh2.4_cjsjqg.png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
     colors: colors-a
     spacing: 16
     columns: 3
