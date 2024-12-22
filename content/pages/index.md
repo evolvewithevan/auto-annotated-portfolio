@@ -210,7 +210,7 @@ sections:
           - type: Button
             label: Lets make something !
             altText: ''
-            url: 'https://tally.so/r/m6x'
+            url: 'https://tally.so/r/m6xgkY'
             showIcon: true
             icon: arrowRight
             iconPosition: right
