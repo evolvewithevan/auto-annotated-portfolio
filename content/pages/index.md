@@ -262,7 +262,7 @@ sections:
           - pt-12
           - pb-12
           - pl-2
-          - pr-4
+          - pr-2
         justifyContent: center
         borderColor: border-dark
       title:
