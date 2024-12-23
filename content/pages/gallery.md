@@ -62,29 +62,54 @@ sections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Untitled3.webp
         altText: Image one
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/20240519173818_IMG_2023.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/_MG_0879.webp
         altText: Image three
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/HBTherapy-small.jpg
         altText: Image four
         caption: Image four caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Number1 (3).png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/FS-Silence.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/IMG_0607.1.webp
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/1241.png
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/banner1.png
+        altText: Image one
+        caption: Image one caption
         elementId: ''
     colors: colors-a
     spacing: 16
     columns: 1
-    aspectRatio: '1:1'
+    aspectRatio: auto
     showCaption: false
     enableHover: true
     elementId: ''
