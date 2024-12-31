@@ -12,25 +12,25 @@ backgroundImage:
   opacity: 75
 sections:
   - type: CtaSection
-    title: ''
+    title: Art that amplifies
     text: |+
-      ## Let's make something awesome   ✦˚
+      ## Your Story    ✦˚
 
     actions:
       - type: Button
-        label: Order a commision
-        altText: Order a commision button
-        url: 'https://tally.so/r/m6xgkY'
-        showIcon: true
+        label: Learn more
+        altText: Learn more
+        url: /learn-more
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
       - type: Link
-        label: Learn more
+        label: I have an idea
         altText: ''
-        url: /learn-more
-        showIcon: true
+        url: 'https://tally.so/r/m6xgkY'
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         elementId: ''
@@ -58,19 +58,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-4
-          - pb-4
-          - pl-24
-          - pr-24
-        justifyContent: center
-        borderWidth: 1
   - type: MediaGallerySection
     title: ''
     subtitle: ''
