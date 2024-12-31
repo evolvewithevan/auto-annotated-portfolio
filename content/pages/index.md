@@ -29,7 +29,7 @@ sections:
         label: Order a commision
         altText: Order a commision button
         url: 'https://tally.so/r/m6xgkY'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
