@@ -18,7 +18,7 @@ sections:
 
     actions:
       - type: Button
-        label: Order a commision
+        label: Learn more
         altText: Learn more
         url: /learn-more
         showIcon: false
