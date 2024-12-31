@@ -12,7 +12,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: CtaSection
-    title: ''
+    title: title
     text: |+
       ## Art that Amplifies Your Story    ✦˚
 
