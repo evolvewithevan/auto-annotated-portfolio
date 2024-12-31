@@ -14,7 +14,7 @@ sections:
   - type: CtaSection
     title: ''
     text: |+
-      ## Let's make something awesome   ✦˚
+      ## Art that Amplifies Your Story    ✦˚
 
     actions:
       - type: Button
