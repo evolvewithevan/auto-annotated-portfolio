@@ -19,7 +19,7 @@ sections:
     actions:
       - type: Button
         label: Order a commision
-        altText: Order a commision button
+        altText: Learn more
         url: /learn-more
         showIcon: false
         icon: arrowRight
