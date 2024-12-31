@@ -195,7 +195,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Lets make something !
+            label: Lets work together
             altText: ''
             url: 'https://tally.so/r/m6xgkY'
             showIcon: true
