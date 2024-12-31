@@ -30,7 +30,7 @@ sections:
         label: I have an idea
         altText: ''
         url: 'https://tally.so/r/m6xgkY'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         elementId: ''
