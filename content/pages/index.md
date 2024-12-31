@@ -20,7 +20,7 @@ sections:
       - type: Button
         label: Order a commision
         altText: Order a commision button
-        url: 'https://tally.so/r/m6xgkY'
+        url: /learn-more
         showIcon: false
         icon: arrowRight
         iconPosition: right
