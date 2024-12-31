@@ -27,7 +27,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Order a commission
+        label: I have an idea
         altText: ''
         url: 'https://tally.so/r/m6xgkY'
         showIcon: false
