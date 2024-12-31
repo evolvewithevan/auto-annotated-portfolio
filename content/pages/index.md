@@ -17,14 +17,6 @@ sections:
       ## Let's make something awesome   ✦˚
 
     actions:
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: /learn-more
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
       - type: Button
         label: Order a commision
         altText: Order a commision button
@@ -33,6 +25,14 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+        elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /learn-more
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
         elementId: ''
     colors: colors-f
     backgroundSize: full
