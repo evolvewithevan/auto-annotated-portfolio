@@ -30,7 +30,7 @@ sections:
         label: Order a commission
         altText: ''
         url: 'https://tally.so/r/m6xgkY'
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         elementId: ''
