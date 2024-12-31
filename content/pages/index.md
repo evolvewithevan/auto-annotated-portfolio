@@ -14,7 +14,7 @@ sections:
   - type: CtaSection
     title: Art that amplifies
     text: |+
-      ## Art that Amplifies Your Story    ✦˚
+      ## Your Story    ✦˚
 
     actions:
       - type: Button
