@@ -29,7 +29,7 @@ sections:
       - type: Link
         label: Learn more
         altText: ''
-        url: /learn-more
+        url: 'https://tally.so/r/m6xgkY'
         showIcon: true
         icon: arrowRight
         iconPosition: right
