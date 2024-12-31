@@ -27,7 +27,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Order a commision
+        label: Order a commission
         altText: ''
         url: 'https://tally.so/r/m6xgkY'
         showIcon: true
