@@ -216,7 +216,7 @@ sections:
     colors: colors-f
     variant: variant-b
     title: NERDS !
-    subtitle: The section subtitle
+    subtitle: Here's my PGP -->
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
