@@ -216,7 +216,9 @@ sections:
     colors: colors-f
     variant: variant-b
     title: NERDS !
-    subtitle: Here's my PGP -->
+    subtitle: >-
+      If you don't know what this means, don't worry about it<3 If you do,
+      Here's my PGP -->
     text: >
       \-----BEGIN PGP PUBLIC KEY BLOCK-----
 
