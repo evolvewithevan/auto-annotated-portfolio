@@ -217,13 +217,32 @@ sections:
     variant: variant-b
     title: NERDS !
     subtitle: Here's my PGP -->
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      \-----BEGIN PGP SIGNED MESSAGE-----
+
+      Hash: SHA512
+
+
+      This is a signed message confirming my identity for evolvewithevan.co.
+      Signed by Evelyn.
+
+
+      Order an Art Commision from me at:
+
+      https\://evolvewithevan.co
+
+      \-----BEGIN PGP SIGNATURE-----
+
+
+      iHUEARYKAB0WIQSIPp8fZQjYZ2Lwn9gQOfqa1E4KRQUCaD96SgAKCRAQOfqa1E4K
+
+      RRPgAQCptgud7c7whb3806u1OYatrimt9+9TDzJ44jNpH0IQpgEAyrtlr7SIpAEk
+
+      ik9DSu52EK1qWrB8gfiqc3oIrpUPQgQ=
+
+      \=x90t
+
+      \-----END PGP SIGNATURE-----
     elementId: ''
     styles:
       self:
