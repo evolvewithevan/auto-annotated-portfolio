@@ -218,6 +218,36 @@ sections:
     title: NERDS !
     subtitle: Here's my PGP -->
     text: >
+      \-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+
+      mDMEaD95phYJKwYBBAHaRw8BAQdAclzWXMZ0SHGuAncPPwTl0rRNMjt6xWZ6EdKm
+
+      HWEvjbO0BkV2ZWx5boiZBBMWCgBBFiEEiD6fH2UI2Gdi8J/YEDn6mtROCkUFAmg/
+
+      eaYCGwMFCQHhM4AFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQEDn6mtRO
+
+      CkWv+gD+KFEVZr9SsKWI6023b/a5DIWSto9/PjdQupTkQb3A9doBAKAe6asyQuEx
+
+      c2T/cFZFND5EmJrDALT3lWhy4S/ggdUGuDgEaD95phIKKwYBBAGXVQEFAQEHQCoZ
+
+      v1/8awPiDumtcSzvxNhQCjbLBYhVdZRCXeIo7UVBAwEIB4h+BBgWCgAmFiEEiD6f
+
+      H2UI2Gdi8J/YEDn6mtROCkUFAmg/eaYCGwwFCQHhM4AACgkQEDn6mtROCkXbpQD/
+
+      bRLp40q8lH3Tib/4hMyPY4ZJT006a4wIItDwgiqDxh8A/11nGFumJgPJrr8eaXQS
+
+      x2nDG3TH98I75oDbRFuV0iIM
+
+      \=rq1R
+
+      \-----END PGP PUBLIC KEY BLOCK-----
+
+
+
+
+
+
       \-----BEGIN PGP SIGNED MESSAGE-----
 
       Hash: SHA512
@@ -229,7 +259,7 @@ sections:
 
       Order an Art Commision from me at:
 
-      https\://evolvewithevan.co
+      <https://evolvewithevan.co>
 
       \-----BEGIN PGP SIGNATURE-----
 
