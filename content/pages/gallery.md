@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Congratulations!
+    title: Main Gallery
     subtitle: ''
     text: >
       I'm still editing this page so try not to mind stock images and any other
