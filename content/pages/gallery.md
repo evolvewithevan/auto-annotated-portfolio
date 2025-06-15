@@ -7,9 +7,8 @@ sections:
     variant: variant-a
     title: Main Gallery
     subtitle: ''
-    text: >
-      I'm still editing this page so try not to mind stock images and any other
-      funkiness haha, Thanks for checking my stuff out!
+    text: |
+      (page still under construction)
     elementId: ''
     styles:
       self:
