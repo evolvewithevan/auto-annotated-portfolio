@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Congratulations!
-    subtitle: 'You''ve caught me with my pants down :D'
+    subtitle: ''
     text: >
       I'm still editing this page so try not to mind stock images and any other
       funkiness haha, Thanks for checking my stuff out!
